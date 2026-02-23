@@ -39,7 +39,7 @@ In a typical setup like **Mixtral 8x7B**:
 ## Real-World Application & Who Should Care
 
 ### 🚀 The Performance Monsters (SOTA Seekers)
-**Why you care:** MoE models (like **DeepSeek-V3**, **Mixtral 8x22B**, **Grok-1**) currently offer some of the best reasoning-per-dollar ratios. They often outperform dense models of similar active parameter counts.
+**Why you care:** MoE models (like **DeepSeek-V3**, **[DeepSeek-R1](../models/deepseek-r1.md)**, **Mixtral 8x22B**, **Grok-1**) currently offer some of the best reasoning-per-dollar ratios. They often outperform dense models of similar active parameter counts.
 **Action:** When evaluating models for complex reasoning tasks, prioritize MoE architectures if you are constrained by inference latency but have sufficient VRAM. For example, frameworks like [Agent-as-a-Judge](../papers/agent-as-a-judge.md) require running many evaluations, making MoE's efficiency critical.
 
 ### 💰 The Cost & Latency Optimizers (API Developers)
@@ -47,7 +47,7 @@ In a typical setup like **Mixtral 8x7B**:
 **Action:** Adopt MoE-based endpoints (e.g., `deepseek-chat`, `mistral-small`) for high-volume background tasks. You get "big model" smarts with "small model" latency and pricing.
 
 ### 🧑‍💻 The Everyday Prompt Engineers
-**Why you care:** You might notice that MoE models sometimes feel "spiky" in their knowledge—brilliant at one topic, slightly inconsistent at another. This is a side effect of specialization.
+**Why you care:** You might notice that MoE models sometimes feel "spiky" in their knowledge - brilliant at one topic, slightly inconsistent at another. This is a side effect of specialization.
 **Action:** If an MoE model (like Mixtral) gives a weird answer, try slightly rephrasing the prompt to trigger a different set of experts. The "routing" is dynamic, so a small change in input can activate a smarter path in the model.
 
 ---
