@@ -1,10 +1,14 @@
 # cleveres-ai
 A smart knowledge base about artificial intelligence.
 
+## Frontier Models
+*   [DeepSeek-R1: The Open-Source Reasoning Champion](models/deepseek-r1.md) - *The first open-weights model to rival o1 using Pure RL.*
+
 ## Frontier Research & Papers
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [Chain-of-Thought (CoT): Eliciting Reasoning in LLMs](concepts/chain-of-thought.md) - *How models solve complex problems by "thinking" before speaking.*
 *   [Mixture of Experts (MoE): Scaling Parameters Without Scaling Costs](concepts/mixture-of-experts.md) - *How models like Mixtral and DeepSeek scale efficiently.*
 
 ## Prompt Engineering Techniques
