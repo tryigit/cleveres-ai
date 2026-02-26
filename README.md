@@ -23,3 +23,6 @@ A smart knowledge base about artificial intelligence.
 
 ## Telegram
 * [CleveresTech Telegram Group](t.me/cleverestech)
+
+## Tools & Protocols
+*   [Model Context Protocol (MCP): The USB-C for AI](concepts/model-context-protocol.md) - *Standardizing how AI models connect to data and tools, with Context7 as a prime example.*
