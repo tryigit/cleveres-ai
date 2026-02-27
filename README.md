@@ -2,6 +2,8 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Claude 3.7 Sonnet: The Hybrid Reasoning Engine](models/claude-3-7-sonnet.md) - *Anthropic's hybrid model that toggles between instant responses and extended thinking.*
+*   [Wan 2.1: The Open-Source Video Generator](models/wan-2-1.md) - *Alibaba's 14B parameter video generation model with advanced motion control.*
 *   [Qwen 2.5-VL: The Vision-Language Flagship](models/qwen-2-5-vl.md) - *A multimodal model for native dynamic resolution, long-video comprehension, and visual agent tasks.*
 *   [DeepSeek-R1: The Open-Source Reasoning Champion](models/deepseek-r1.md) - *The first open-weights model to rival o1 using Pure RL.*
 *   [DeepSeek-V3: The Open-Source Titan Behind R1](models/deepseek-v3.md) - *The 671B MoE base model for R1 with innovative MLA and DeepSeekMoE.*
@@ -11,6 +13,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [Low-Rank Adaptation (LoRA): Efficient Fine-Tuning](concepts/low-rank-adaptation.md) - *Fine-tuning massive models efficiently by injecting small, trainable rank decomposition matrices.*
 *   [Retrieval-Augmented Generation (RAG): Bridging Knowledge and Generation](concepts/retrieval-augmented-generation.md) - *Reducing hallucinations by grounding model outputs in external data.*
 *   [Transformer Architecture: The Engine of Modern AI](concepts/transformer-architecture.md) - *The core mechanism behind GPT, BERT, and most modern LLMs using Self-Attention.*
 *   [Chain-of-Thought (CoT): Eliciting Reasoning in LLMs](concepts/chain-of-thought.md) - *How models solve complex problems by "thinking" before speaking.*
