@@ -15,7 +15,7 @@ DeepSeek-R1 represents a shift from "System 1" (fast, intuitive) to "System 2" (
 R1 is built on top of **DeepSeek-V3**, a massive [Mixture of Experts (MoE)](../concepts/mixture-of-experts.md) model with 671B parameters (37B active). This provides the raw knowledge base.
 
 ### 2. Group Relative Policy Optimization (GRPO)
-Instead of the standard PPO (Proximal Policy Optimization) used in most RLHF pipelines, DeepSeek uses **GRPO**.
+Instead of the standard PPO (Proximal Policy Optimization) used in most RLHF pipelines, DeepSeek uses **[Group Relative Policy Optimization (GRPO)](../concepts/group-relative-policy-optimization.md)**.
 *   **The Problem with PPO:** It requires a "Critic" model to evaluate every step, which is computationally expensive (doubles the memory cost).
 *   **The GRPO Solution:** It removes the Critic. Instead, it generates a group of outputs for the same prompt and optimizes based on the relative performance of the group. This significantly reduces training costs.
 
