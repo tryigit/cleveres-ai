@@ -13,6 +13,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [Direct Preference Optimization (DPO)](concepts/direct-preference-optimization.md) - *A lightweight alternative to RLHF that turns the language model itself into a reward model via contrastive pairs.*
 *   [Group Relative Policy Optimization (GRPO): Efficient Reinforcement Learning](concepts/group-relative-policy-optimization.md) - *Streamlining RL by eliminating the value model and using group-based reward baselines.*
 *   [Low-Rank Adaptation (LoRA): Efficient Fine-Tuning](concepts/low-rank-adaptation.md) - *Fine-tuning massive models efficiently by injecting small, trainable rank decomposition matrices.*
 *   [Retrieval-Augmented Generation (RAG): Bridging Knowledge and Generation](concepts/retrieval-augmented-generation.md) - *Reducing hallucinations by grounding model outputs in external data.*
