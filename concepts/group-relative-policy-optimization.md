@@ -10,7 +10,7 @@ Group Relative Policy Optimization (GRPO) is a reinforcement learning (RL) algor
 
 ## How GRPO Works: Simplifying Reinforcement Learning
 
-Traditional reinforcement learning methods used for tuning Large Language Models (LLMs), like PPO, typically require maintaining two distinct neural networks during training:
+Traditional reinforcement learning methods used for tuning Large Language Models (LLMs), like PPO, typically require maintaining two distinct neural networks during training (Note: another lightweight alternative to RLHF is **[Direct Preference Optimization (DPO)](../concepts/direct-preference-optimization.md)**):
 1.  **The Actor (Policy Model):** The model generating the responses.
 2.  **The Critic (Value Model):** A model trained alongside the actor to evaluate how good the generated responses are.
 
