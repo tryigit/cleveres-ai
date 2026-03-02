@@ -21,6 +21,7 @@ A smart knowledge base about artificial intelligence.
 *   [Chain-of-Thought (CoT): Eliciting Reasoning in LLMs](concepts/chain-of-thought.md) - *How models solve complex problems by "thinking" before speaking.*
 *   [Mixture of Experts (MoE): Scaling Parameters Without Scaling Costs](concepts/mixture-of-experts.md) - *How models like Mixtral and DeepSeek scale efficiently.*
 *   [Inference-Time Compute: The New Scaling Law](concepts/inference-time-compute.md) - *Shift from training-time scale to test-time reasoning (System 2 thinking).*
+*   [Rotary Position Embedding (RoPE)](concepts/rotary-position-embedding.md) - *Injecting relative positional information by mathematically rotating token embeddings in space.*
 
 ## Prompt Engineering Techniques
 *   [Context Caching: The Cost-Cutting Superpower](techniques/context-caching.md) - *Reducing cost and latency by reusing the KV cache for large prompts.*

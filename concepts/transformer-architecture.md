@@ -38,7 +38,7 @@ Instead of having just one "attention" focus, the model has multiple "heads" (e.
 This allows the model to capture different types of relationships simultaneously.
 
 #### 4. Positional Encodings
-Since the Transformer processes all words in parallel, it has no inherent sense of order (unlike an RNN). To fix this, a "Positional Encoding" vector is added to each word embedding, injecting information about the word's position in the sentence (1st, 2nd, 3rd, etc.).
+Since the Transformer processes all words in parallel, it has no inherent sense of order (unlike an RNN). To fix this, a "Positional Encoding" vector is added to each word embedding, injecting information about the word's position in the sentence (1st, 2nd, 3rd, etc.). Modern LLMs have advanced this with techniques like **[Rotary Position Embedding (RoPE)](../concepts/rotary-position-embedding.md)**, which uses mathematical rotation to capture relative distances between tokens.
 
 #### 5. Feed-Forward Networks & LayerNorm
 After attention, the data passes through standard Feed-Forward Networks (FFNs) to process the information. Layer Normalization is applied at each step to stabilize training, allowing for very deep networks. **[Mixture of Experts (MoE)](../concepts/mixture-of-experts.md)** models replace these dense FFNs with sparse experts to scale up efficiency.
