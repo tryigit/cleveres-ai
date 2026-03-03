@@ -38,12 +38,12 @@ This is the only way to solve "impossible" problems.
 *   **Agentic Planning:** Use these models as the "brain" for autonomous agents to plan multi-step workflows before executing actions.
 
 ### 💰 For The Cost & Latency Optimizers (API Developers)
-Be careful—this gets expensive fast.
-*   **Latency Trade-off:** These models can take 10-60 seconds to reply. Do **not** use them for customer-facing chatbots requiring instant responses.
+Be careful - this gets expensive fast.
+*   **Latency Trade-off:** These models can take 10-60 seconds to reply. Do **not** use them for customer-facing chatbots requiring instant responses. If you need fast generation for standard models, look into techniques like [Speculative Decoding](../techniques/speculative-decoding.md).
 *   **Cost Control:** "Thinking" consumes tokens. A simple "Hello" might generate 500 hidden thought tokens. Use strict `max_completion_tokens` limits or stick to standard models (System 1) for routine tasks.
 
 ### 🧑‍💻 For The Everyday Prompt Engineers
-You don't need to prompt these models to "think step by step"—they already do.
+You don't need to prompt these models to "think step by step" - they already do.
 *   **Simpler Prompts:** You can use simpler prompts. Instead of complex CoT engineering, just state the problem clearly.
 *   **Show Your Work:** While the thought process is often hidden, you can ask the model to "explain the reasoning" in the final output if you need to debug its logic.
 
