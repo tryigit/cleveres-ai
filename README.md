@@ -26,6 +26,7 @@ A smart knowledge base about artificial intelligence.
 ## Prompt Engineering Techniques
 *   [Context Caching: The Cost-Cutting Superpower](techniques/context-caching.md) - *Reducing cost and latency by reusing the KV cache for large prompts.*
 *   [Double Question Prompting: Overcoming Causal LLM Limitations](techniques/double-question-prompting.md)
+*   [Speculative Decoding](techniques/speculative-decoding.md) - *Accelerating LLM inference by pairing a small draft model with a larger verification model.*
 
 ## Telegram
 * [CleveresTech Telegram Group](t.me/cleverestech)
