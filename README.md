@@ -10,6 +10,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenAI o3-mini: High-Speed Reasoning for the Masses](models/o3-mini.md) - *A fast, cost-efficient reasoning model tailored for STEM and coding tasks.*
 
 ## Frontier Research & Papers
+*   [FlashAttention-4: Adapting to Asymmetric Hardware Scaling](papers/flash-attention-4.md) - *Algorithm and Kernel Pipelining Co-Design to handle shifting bottlenecks in Blackwell (B200) architectures.*
+*   [AReaL: Asynchronous Reinforcement Learning](papers/areal.md) - *A fully asynchronous RL system decoupling generation from training to maximize GPU utilization.*
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture

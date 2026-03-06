@@ -47,4 +47,5 @@ While you won't write code for FlashAttention, you benefit from it directly. It 
 ## References
 *   [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 *   [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)
+*   [FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling](../papers/flash-attention-4.md)
 *   [Dao-AILab/flash-attention GitHub Repository](https://github.com/Dao-AILab/flash-attention)
