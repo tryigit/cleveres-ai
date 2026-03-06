@@ -47,3 +47,4 @@ To ensure the model does not "reward hack" or stray too far from its original, p
 ## References
 *   [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (arXiv)](https://arxiv.org/abs/2402.03300)
 *   [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+*   [AReaL: Asynchronous Reinforcement Learning for Language Reasoning](../papers/areal.md) - *An alternative system-level paradigm for scaling RL by decoupling generation and training.*
