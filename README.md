@@ -28,6 +28,7 @@ A smart knowledge base about artificial intelligence.
 *   [Quantization: Shrinking Models for the Real World](concepts/quantization.md) - *Reducing model weights to lower precision formats (e.g., INT4) to drastically cut VRAM requirements with minimal accuracy loss.*
 *   [FlashAttention: IO-Aware Exact Attention](concepts/flash-attention.md) - *A memory-efficient algorithm that reduces HBM/SRAM access overhead, turning quadratic memory complexity into linear.*
 *   [Multi-Head Latent Attention (MLA): Compressing the KV Cache](concepts/multi-head-latent-attention.md) - *A low-rank factorization technique that shrinks KV cache size drastically, enabling longer context sizes and faster inference in DeepSeek models.*
+*   [Ring Attention: Near-Infinite Context through Distributed Compute](concepts/ring-attention.md) - *A blockwise attention technique that scales context sizes linearly with the number of GPUs by forming a logical ring to overlap computation and communication.*
 
 ## Prompt Engineering Techniques
 *   [Context Caching: The Cost-Cutting Superpower](techniques/context-caching.md) - *Reducing cost and latency by reusing the KV cache for large prompts.*
