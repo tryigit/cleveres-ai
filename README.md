@@ -9,6 +9,7 @@ A smart knowledge base about artificial intelligence.
 *   [Qwen 2.5-VL: The Vision-Language Flagship](models/qwen-2-5-vl.md) - *A multimodal model for native dynamic resolution, long-video comprehension, and visual agent tasks.*
 *   [DeepSeek-R1: The Open-Source Reasoning Champion](models/deepseek-r1.md) - *The first open-weights model to rival o1 using Pure RL.*
 *   [DeepSeek-V3: The Open-Source Titan Behind R1](models/deepseek-v3.md) - *The 671B MoE base model for R1 with innovative MLA and DeepSeekMoE.*
+*   [DeepSeek-V3.2: The Sparse Attention Evolution](models/deepseek-v3-2.md) - *The 685B model that introduces DeepSeek Sparse Attention (DSA) for efficient long-context processing.*
 *   [OpenAI o3-mini: High-Speed Reasoning for the Masses](models/o3-mini.md) - *A fast, cost-efficient reasoning model tailored for STEM and coding tasks.*
 
 ## Frontier Research & Papers

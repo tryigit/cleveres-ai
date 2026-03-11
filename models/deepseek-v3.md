@@ -9,7 +9,7 @@
 DeepSeek-V3 builds on the standard **[Transformer Architecture](../concepts/transformer-architecture.md)** but introduces several critical innovations to maximize efficiency and performance.
 
 ### 1. [Multi-Head Latent Attention (MLA)](../concepts/multi-head-latent-attention.md)
-Standard Transformers suffer from a large KV Cache, which consumes massive amounts of VRAM during generation. MLA compresses the Key-Value (KV) cache into a latent vector, reducing memory usage by up to 93% compared to standard MHA. This allows V3 to serve much longer contexts and larger batch sizes on the same hardware.
+Standard Transformers suffer from a large KV Cache, which consumes massive amounts of VRAM during generation. MLA compresses the Key-Value (KV) cache into a latent vector, reducing memory usage by up to 93% compared to standard MHA. This allows V3 to serve much longer contexts and larger batch sizes on the same hardware. *(Note: This mechanism has since been evolved into DeepSeek Sparse Attention (DSA) in the [DeepSeek-V3.2](../models/deepseek-v3-2.md) release).*
 
 ### 2. DeepSeekMoE (Fine-Grained Experts)
 Unlike traditional **[Mixture of Experts (MoE)](../concepts/mixture-of-experts.md)** (like Mixtral) which activate a few large experts, DeepSeek-V3 uses many small experts.
