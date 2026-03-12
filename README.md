@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [OpenClaw: The Viral Open-Source AI Agent](models/openclaw.md) - *An autonomous agent framework (formerly Moltbot) that executes local tasks via LLMs and messaging platforms.*
 *   [Grok 3: The Age of Reasoning Agents](models/grok-3.md) - *xAI's newest frontier model focusing on test-time compute and advanced mathematical reasoning.*
 *   [GLM-5: The 744B Frontier MoE Model](models/glm-5.md) - *Zhipu AI's flagship open-weights model featuring DeepSeek Sparse Attention and asynchronous RL for complex agentic tasks.*
 *   [Claude 3.7 Sonnet: The Hybrid Reasoning Engine](models/claude-3-7-sonnet.md) - *Anthropic's hybrid model that toggles between instant responses and extended thinking.*
@@ -18,6 +19,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [PagedAttention: Virtual Memory for LLMs](concepts/paged-attention.md) - *Eliminating KV cache fragmentation by borrowing operating system memory management concepts to maximize serving throughput.*
 *   [Reinforcement Learning from Human Feedback (RLHF)](concepts/rlhf.md) - *A technique to align an intelligent agent with human preferences by training a reward model to score responses and optimize the policy.*
 *   [Direct Preference Optimization (DPO)](concepts/direct-preference-optimization.md) - *A lightweight alternative to RLHF that turns the language model itself into a reward model via contrastive pairs.*
 *   [Group Relative Policy Optimization (GRPO): Efficient Reinforcement Learning](concepts/group-relative-policy-optimization.md) - *Streamlining RL by eliminating the value model and using group-based reward baselines.*

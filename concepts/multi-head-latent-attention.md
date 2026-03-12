@@ -6,7 +6,7 @@ Multi-Head Latent Attention (MLA) is a highly efficient attention mechanism intr
 ---
 
 ## The Problem: The KV Cache Bottleneck
-In a standard **[Transformer Architecture](../concepts/transformer-architecture.md)**, the model predicts text one token at a time (autoregressive generation). To do this efficiently, the model caches the calculated "Keys" (K) and "Values" (V) for all previous tokens in the sequence. This is called the KV Cache.
+In a standard **[Transformer Architecture](../concepts/transformer-architecture.md)**, the model predicts text one token at a time (autoregressive generation). To do this efficiently, the model caches the calculated "Keys" (K) and "Values" (V) for all previous tokens in the sequence. This is called the **[KV Cache](../concepts/paged-attention.md)**.
 
 Without the KV Cache, the model would have to recalculate the entire history for every single new word. However, as the context window grows (e.g., to 128k or 1M tokens) or as batch sizes increase (serving multiple users), the KV Cache consumes a massive amount of VRAM (GPU Memory). Often, the KV Cache becomes larger than the model weights themselves, creating a severe memory bottleneck.
 

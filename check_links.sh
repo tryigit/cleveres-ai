@@ -1,5 +1,5 @@
 #!/bin/bash
-files="concepts/rlhf.md models/grok-3.md README.md papers/areal.md papers/flash-attention-4.md concepts/group-relative-policy-optimization.md concepts/flash-attention.md models/deepseek-v3-2.md models/deepseek-v3.md"
+files="concepts/rlhf.md models/grok-3.md README.md papers/areal.md papers/flash-attention-4.md concepts/group-relative-policy-optimization.md concepts/flash-attention.md models/deepseek-v3-2.md models/deepseek-v3.md concepts/paged-attention.md models/openclaw.md concepts/multi-head-latent-attention.md techniques/context-caching.md"
 for file in $files; do
   echo "Checking links in $file"
   # extract links that look like (relative/path.md)

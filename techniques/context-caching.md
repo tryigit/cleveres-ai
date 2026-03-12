@@ -1,7 +1,7 @@
 # Context Caching: The Cost-Cutting Superpower for Long-Context AI
 
 ## TL;DR
-**Context Caching** is a technique that allows developers to store (cache) the processed state (KV Cache) of a large prompt prefix—such as a system instruction, a long document, or a codebase—and reuse it across multiple API calls. Instead of paying to re-process the same 50,000 tokens for every user request, you only pay once to cache it, and then pay a heavily discounted rate (often 50-90% off) for subsequent hits.
+**Context Caching** is a technique that allows developers to store (cache) the processed state (**[KV Cache](../concepts/paged-attention.md)**) of a large prompt prefix—such as a system instruction, a long document, or a codebase—and reuse it across multiple API calls. Instead of paying to re-process the same 50,000 tokens for every user request, you only pay once to cache it, and then pay a heavily discounted rate (often 50-90% off) for subsequent hits.
 
 ---
 
