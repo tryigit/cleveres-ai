@@ -35,7 +35,7 @@ Instead of having just one "attention" focus, the model has multiple "heads" (e.
 *   One head might focus on grammar (subject-verb agreement).
 *   Another might focus on semantic relationships (synonyms).
 *   Another might track pronouns (what "it" refers to).
-This allows the model to capture different types of relationships simultaneously.
+This allows the model to capture different types of relationships simultaneously. See also **[Grouped Query Attention (GQA)](../concepts/grouped-query-attention.md)** for a modern optimization of this mechanism.
 
 #### 4. Positional Encodings
 Since the Transformer processes all words in parallel, it has no inherent sense of order (unlike an RNN). To fix this, a "Positional Encoding" vector is added to each word embedding, injecting information about the word's position in the sentence (1st, 2nd, 3rd, etc.). Modern LLMs have advanced this with techniques like **[Rotary Position Embedding (RoPE)](../concepts/rotary-position-embedding.md)**, which uses mathematical rotation to capture relative distances between tokens.

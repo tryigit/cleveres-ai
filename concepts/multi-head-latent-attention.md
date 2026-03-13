@@ -13,7 +13,7 @@ Without the KV Cache, the model would have to recalculate the entire history for
 ### Previous Attempts to Fix It
 Before MLA, researchers tried to shrink the KV Cache with two main techniques:
 1.  **Multi-Query Attention (MQA):** Instead of having a separate K and V for every "attention head" (which Multi-Head Attention or MHA does), MQA forces all query heads to share a *single* K and V head. This saves massive amounts of memory but can degrade the model's reasoning quality.
-2.  **Grouped-Query Attention (GQA):** A middle ground used in models like Llama 2/3. Query heads are grouped together, and each group shares one K and V head. It balances memory savings with model quality.
+2.  **[Grouped-Query Attention (GQA)](../concepts/grouped-query-attention.md):** A middle ground used in models like Llama 2/3. Query heads are grouped together, and each group shares one K and V head. It balances memory savings with model quality.
 
 ## The Solution: Multi-Head Latent Attention (MLA)
 MLA takes a completely different approach. Instead of just reducing the *number* of K and V heads, it compresses the data itself.
