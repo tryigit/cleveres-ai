@@ -18,6 +18,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [PagedAttention: Eliminating KV Cache Waste](concepts/paged-attention.md) - *A memory management technique that borrows from virtual memory concepts to dramatically improve LLM inference throughput.*
 *   [Reinforcement Learning from Human Feedback (RLHF)](concepts/rlhf.md) - *A technique to align an intelligent agent with human preferences by training a reward model to score responses and optimize the policy.*
 *   [Direct Preference Optimization (DPO)](concepts/direct-preference-optimization.md) - *A lightweight alternative to RLHF that turns the language model itself into a reward model via contrastive pairs.*
 *   [Group Relative Policy Optimization (GRPO): Efficient Reinforcement Learning](concepts/group-relative-policy-optimization.md) - *Streamlining RL by eliminating the value model and using group-based reward baselines.*
