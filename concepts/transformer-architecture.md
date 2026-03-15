@@ -20,6 +20,7 @@ The original Transformer had two parts:
 *   **Encoder:** Processes the input text and creates a rich representation of it (understanding). Used in models like BERT.
 *   **Decoder:** Generates output text one token at a time, attending to the Encoder's output. Used in the original translation tasks.
 *   **Modern Twist:** Most LLMs today (like GPT) are **Decoder-only**. They simply predict the next token based on all previous tokens.
+*   *See also: **[Causal vs. Masked Language Models](../concepts/causal-vs-masked-language-models.md)** for a deep dive into Encoder-only vs Decoder-only paradigms.*
 
 #### 2. Self-Attention (The Core Magic)
 This mechanism allows the model to weigh the importance of different words in a sentence relative to a specific word.
