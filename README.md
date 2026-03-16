@@ -11,6 +11,7 @@ A smart knowledge base about artificial intelligence.
 *   [DeepSeek-V3: The Open-Source Titan Behind R1](models/deepseek-v3.md) - *The 671B MoE base model for R1 with innovative MLA and DeepSeekMoE.*
 *   [DeepSeek-V3.2: The Sparse Attention Evolution](models/deepseek-v3-2.md) - *The 685B model that introduces DeepSeek Sparse Attention (DSA) for efficient long-context processing.*
 *   [OpenAI o3-mini: High-Speed Reasoning for the Masses](models/o3-mini.md) - *A fast, cost-efficient reasoning model tailored for STEM and coding tasks.*
+*   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
 *   [FlashAttention-4: Adapting to Asymmetric Hardware Scaling](papers/flash-attention-4.md) - *Algorithm and Kernel Pipelining Co-Design to handle shifting bottlenecks in Blackwell (B200) architectures.*
