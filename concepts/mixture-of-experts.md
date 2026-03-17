@@ -44,7 +44,7 @@ In a typical setup like **Mixtral 8x7B**:
 
 ### 💰 The Cost & Latency Optimizers (API Developers)
 **Why you care:** MoE is the secret sauce behind the plummeting cost of intelligence. Providers like DeepSeek and Mistral can offer GPT-4 class performance at 1/10th the price because their backend compute costs are significantly lower due to sparsity.
-**Action:** Adopt MoE-based endpoints (e.g., `deepseek-chat`, `mistral-small`) for high-volume background tasks. You get "big model" smarts with "small model" latency and pricing.
+**Action:** Adopt MoE-based endpoints (e.g., `deepseek-chat`, [`mistral-small`](../models/mistral-small-4.md)) for high-volume background tasks. You get "big model" smarts with "small model" latency and pricing.
 
 ### 🧑‍💻 The Everyday Prompt Engineers
 **Why you care:** You might notice that MoE models sometimes feel "spiky" in their knowledge - brilliant at one topic, slightly inconsistent at another. This is a side effect of specialization.
