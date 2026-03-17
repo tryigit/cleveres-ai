@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Mistral Small 4: The Unified MoE Model](models/mistral-small-4.md) - *Mistral AI's 119B hybrid MoE model combining reasoning, multimodal, and agentic capabilities.*
 *   [Grok 3: The Age of Reasoning Agents](models/grok-3.md) - *xAI's newest frontier model focusing on test-time compute and advanced mathematical reasoning.*
 *   [GLM-5: The 744B Frontier MoE Model](models/glm-5.md) - *Zhipu AI's flagship open-weights model featuring DeepSeek Sparse Attention and asynchronous RL for complex agentic tasks.*
 *   [Claude 3.7 Sonnet: The Hybrid Reasoning Engine](models/claude-3-7-sonnet.md) - *Anthropic's hybrid model that toggles between instant responses and extended thinking.*
