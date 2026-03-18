@@ -20,6 +20,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [State Space Models (SSM) & Mamba: The Linear-Time Architecture](concepts/state-space-models.md) - *An alternative to Transformers that solves the quadratic attention bottleneck via selective state spaces.*
 *   [Causal vs. Masked Language Models](concepts/causal-vs-masked-language-models.md) - *The architectural divide between generative decoder-only models (like GPT) and bidirectional encoder-only models (like BERT).*
 *   [PagedAttention: Eliminating KV Cache Waste](concepts/paged-attention.md) - *A memory management technique that borrows from virtual memory concepts to dramatically improve LLM inference throughput.*
 *   [Reinforcement Learning from Human Feedback (RLHF)](concepts/rlhf.md) - *A technique to align an intelligent agent with human preferences by training a reward model to score responses and optimize the policy.*
