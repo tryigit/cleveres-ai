@@ -51,7 +51,7 @@ After attention, the data passes through standard Feed-Forward Networks (FFNs) t
 ### 🚀 For The Performance Monsters (SOTA Seekers)
 Understanding the attention mechanism is key to debugging model hallucinations and "lost in the middle" phenomena.
 *   **Attention Visualization:** Tools that visualize attention weights can show you exactly what the model was looking at when it made a mistake.
-*   **Context Window Optimization:** Knowing that attention has quadratic complexity $O(N^2)$ (doubling context quadruples compute) explains why 1M token windows are hard to engineer and why architectures like Mamba (Linear attention) are being explored.
+*   **Context Window Optimization:** Knowing that attention has quadratic complexity $O(N^2)$ (doubling context quadruples compute) explains why 1M token windows are hard to engineer and why architectures like [Mamba (Linear attention)](state-space-models.md) are being explored.
 
 ### 💰 For The Cost & Latency Optimizers (API Developers)
 The Transformer's architecture dictates your costs.
