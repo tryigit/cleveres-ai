@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Claude Opus 4.6: The Long-Horizon Reasoning Engine](models/claude-opus-4-6.md) - *Anthropic's newly released model with a 1M token context window, engineered for long-horizon reasoning and autonomous agentic work.*
 *   [GPT-5.4 mini and nano: High-Volume Efficiency](models/gpt-5-4-mini-and-nano.md) - *OpenAI's latest highly efficient models optimized for speed, cost, and high-volume workloads.*
 *   [Xiaomi MiMo: The "Hunter Alpha" Stealth Model](models/hunter-alpha-mimo.md) - *Xiaomi's stealth model that surfaced anonymously and sparked widespread speculation.*
 *   [Mistral Small 4: The Unified MoE Model](models/mistral-small-4.md) - *Mistral AI's 119B hybrid MoE model combining reasoning, multimodal, and agentic capabilities.*
