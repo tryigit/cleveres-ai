@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Gemini 3.1 Pro: The Expanded Context Engine](models/gemini-3-1-pro.md) - *Google's frontier reasoning model with a 1M token context window, natively multimodal.*
 *   [Claude Opus 4.6: The Long-Horizon Reasoning Engine](models/claude-opus-4-6.md) - *Anthropic's newly released model with a 1M token context window, engineered for long-horizon reasoning and autonomous agentic work.*
 *   [GPT-5.4 mini and nano: High-Volume Efficiency](models/gpt-5-4-mini-and-nano.md) - *OpenAI's latest highly efficient models optimized for speed, cost, and high-volume workloads.*
 *   [Xiaomi MiMo: The "Hunter Alpha" Stealth Model](models/hunter-alpha-mimo.md) - *Xiaomi's stealth model that surfaced anonymously and sparked widespread speculation.*
