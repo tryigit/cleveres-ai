@@ -38,6 +38,7 @@ This approach almost entirely eliminates internal fragmentation, dropping memory
 ## Alternative Solutions
 PagedAttention solves the *fragmentation* of the KV Cache. Other cutting-edge approaches tackle the problem by compressing the *data* within the cache itself:
 *   **[Multi-Head Latent Attention (MLA)](multi-head-latent-attention.md):** Compresses the Key and Value matrices into a single, much smaller latent vector.
+*   **[Continuous Batching](continuous-batching.md):** Iteration-level scheduling technique implemented alongside PagedAttention in modern inference engines like vLLM.
 *   **[Rotary Position Embedding (RoPE)](rotary-position-embedding.md):** While primarily for positional encoding, understanding RoPE's relative mathematical properties is crucial when implementing systems like PagedAttention that piece together non-contiguous prompt blocks.
 
 ---
