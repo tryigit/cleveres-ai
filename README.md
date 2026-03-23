@@ -24,6 +24,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [StreamingLLM & Attention Sinks: Efficient Streaming Language Models](concepts/streaming-llm.md) - *Generalizing LLMs trained with finite context windows to infinite sequences without fine-tuning.*
 *   [Continuous Batching: Iteration-Level Scheduling](concepts/continuous-batching.md) - *Maximizing GPU utilization by dynamically slotting in new requests as others finish.*
 *   [State Space Models (SSM) & Mamba: The Linear-Time Architecture](concepts/state-space-models.md) - *An alternative to Transformers that solves the quadratic attention bottleneck via selective state spaces.*
 *   [Causal vs. Masked Language Models](concepts/causal-vs-masked-language-models.md) - *The architectural divide between generative decoder-only models (like GPT) and bidirectional encoder-only models (like BERT).*

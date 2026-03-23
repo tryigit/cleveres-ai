@@ -9,6 +9,8 @@
 ---
 
 ## The Problem: KV Cache Fragmentation
+*See also: **[StreamingLLM & Attention Sinks](../concepts/streaming-llm.md)** for a deep dive into finite context windows and KV cache eviction.*
+
 
 During autoregressive generation in a standard **[Transformer Architecture](transformer-architecture.md)**, the model must store the computed Keys and Values of all previous tokens to avoid recalculating them for every new word. This storage is called the **KV Cache**.
 
