@@ -2,6 +2,8 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [MiniMax M2.7: SOTA Open Model](models/minimax-m2-7.md) - *MiniMax's SOTA open model matching GLM-5 at 1/3 the cost.*
+*   [Xiaomi MiMo-V2-Pro: The API-Only Reasoning Engine](models/xiaomi-mimo-v2-pro.md) - *Xiaomi's API-only reasoning entrant with a 1M context window.*
 *   [Gemini 3.1 Pro: The Expanded Context Engine](models/gemini-3-1-pro.md) - *Google's frontier reasoning model with a 1M token context window, natively multimodal.*
 *   [Claude Opus 4.6: The Long-Horizon Reasoning Engine](models/claude-opus-4-6.md) - *Anthropic's newly released model with a 1M token context window, engineered for long-horizon reasoning and autonomous agentic work.*
 *   [GPT-5.4 mini and nano: High-Volume Efficiency](models/gpt-5-4-mini-and-nano.md) - *OpenAI's latest highly efficient models optimized for speed, cost, and high-volume workloads.*

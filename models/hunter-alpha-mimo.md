@@ -1,7 +1,7 @@
 # Xiaomi MiMo: The "Hunter Alpha" Stealth Model
 
 ## TL;DR
-In March 2026, a mysterious and highly capable AI model surfaced anonymously on the OpenRouter developer platform under the name **"Hunter Alpha"** (or "Hunter/Healer Alpha"), initially billed as a "stealth model". It fueled widespread speculation that it might be an unannounced, next-generation model from Chinese startup DeepSeek (potentially "DeepSeek V4"). However, it was later officially revealed to be an early test version of a model called **MiMo**, developed by the Chinese smartphone and electric vehicle giant **Xiaomi**.
+In March 2026, a mysterious and highly capable AI model surfaced anonymously on the OpenRouter developer platform under the name **"Hunter Alpha"** (or "Hunter/Healer Alpha"), initially billed as a "stealth model". It fueled widespread speculation that it might be an unannounced, next-generation model from Chinese startup DeepSeek (potentially "DeepSeek V4"). However, it was later officially revealed to be an early test version of a model called **MiMo**, developed by the Chinese smartphone and electric vehicle giant **Xiaomi** (which later released the API-only reasoning model [MiMo-V2-Pro](xiaomi-mimo-v2-pro.md)).
 
 ## Key Specs & Features
 
