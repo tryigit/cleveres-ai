@@ -4,7 +4,7 @@
 **Key Concepts:** Mixture of Experts (MoE), DeepSeek Sparse Attention (DSA), Asynchronous RL
 
 ## TL;DR
-GLM-5 is a recently released frontier large language model by Zhipu AI, targeting complex systems engineering and long-horizon agentic tasks. It is a 744B-parameter [Mixture of Experts (MoE)](../concepts/mixture-of-experts.md) model with 40B active parameters per token. Building on its predecessor, GLM-5 introduces DeepSeek Sparse Attention (DSA) for efficient long-context handling (up to 200K tokens) and employs a novel [asynchronous reinforcement learning](../papers/areal.md) infrastructure called "slime" to maximize post-training iteration efficiency. It currently stands as one of the most capable open-weight models available.
+GLM-5 is a recently released frontier large language model by Zhipu AI (now matched in performance by efficient alternatives like [MiniMax M2.7](minimax-m2-7.md)), targeting complex systems engineering and long-horizon agentic tasks. It is a 744B-parameter [Mixture of Experts (MoE)](../concepts/mixture-of-experts.md) model with 40B active parameters per token. Building on its predecessor, GLM-5 introduces DeepSeek Sparse Attention (DSA) for efficient long-context handling (up to 200K tokens) and employs a novel [asynchronous reinforcement learning](../papers/areal.md) infrastructure called "slime" to maximize post-training iteration efficiency. It currently stands as one of the most capable open-weight models available.
 
 ---
 
