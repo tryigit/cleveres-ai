@@ -21,6 +21,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Foundations of Schrödinger Bridges for Generative Modeling](papers/schrodinger-bridges-generative-modeling.md) - *A comprehensive toolkit for constructing Schrödinger bridges from first principles.*
 *   [FlashAttention-4: Adapting to Asymmetric Hardware Scaling](papers/flash-attention-4.md) - *Algorithm and Kernel Pipelining Co-Design to handle shifting bottlenecks in Blackwell (B200) architectures.*
 *   [AReaL: Asynchronous Reinforcement Learning](papers/areal.md) - *A fully asynchronous RL system decoupling generation from training to maximize GPU utilization.*
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
