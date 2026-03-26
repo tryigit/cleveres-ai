@@ -19,6 +19,8 @@ Unlike traditional **[Mixture of Experts (MoE)](../concepts/mixture-of-experts.m
 ### 3. FP8 Mixed Precision Training
 DeepSeek-V3 was trained using native FP8 (8-bit floating point) precision, a first for a model of this scale. This drastically accelerated training speed and reduced memory bandwidth requirements without sacrificing model quality.
 
+### 4. [Multi-Token Prediction (MTP)](../concepts/multi-token-prediction.md)
+DeepSeek-V3 pioneers a multi-token prediction training objective for stronger performance and faster inference.
 ---
 
 ## Real-World Application & Who Should Care
