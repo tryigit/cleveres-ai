@@ -2,6 +2,8 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Nano Banana 2: Gemini 3.1 Flash Image](models/nano-banana-2.md) - *Google's latest fast image generation model.*
+*   [Nemotron 3 Super: The Hybrid Mamba-MoE](models/nemotron-3-super.md) - *NVIDIA's 120B model (12B active) designed for agentic reasoning.*
 *   [MiniMax M2.7: SOTA Open Model](models/minimax-m2-7.md) - *MiniMax's SOTA open model matching GLM-5 at 1/3 the cost.*
 *   [Xiaomi MiMo-V2-Pro: The API-Only Reasoning Engine](models/xiaomi-mimo-v2-pro.md) - *Xiaomi's API-only reasoning entrant with a 1M context window.*
 *   [Gemini 3.1 Pro: The Expanded Context Engine](models/gemini-3-1-pro.md) - *Google's frontier reasoning model with a 1M token context window, natively multimodal.*
@@ -27,6 +29,8 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [LatentMoE: Serving-Aware Sparse Compute](concepts/latent-moe.md) - *A memory-efficient MoE architecture.*
+*   [Multi-Token Prediction (MTP)](concepts/multi-token-prediction.md) - *Predicting multiple future tokens in one forward pass.*
 *   [StreamingLLM & Attention Sinks: Efficient Streaming Language Models](concepts/streaming-llm.md) - *Generalizing LLMs trained with finite context windows to infinite sequences without fine-tuning.*
 *   [Continuous Batching: Iteration-Level Scheduling](concepts/continuous-batching.md) - *Maximizing GPU utilization by dynamically slotting in new requests as others finish.*
 *   [State Space Models (SSM) & Mamba: The Linear-Time Architecture](concepts/state-space-models.md) - *An alternative to Transformers that solves the quadratic attention bottleneck via selective state spaces.*

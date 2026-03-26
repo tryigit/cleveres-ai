@@ -39,7 +39,7 @@ In a typical setup like **Mixtral 8x7B**:
 ## Real-World Application & Who Should Care
 
 ### 🚀 The Performance Monsters (SOTA Seekers)
-**Why you care:** MoE models (like **DeepSeek-V3**, **[DeepSeek-R1](../models/deepseek-r1.md)**, **Mixtral 8x22B**, **Grok-1**) currently offer some of the best reasoning-per-dollar ratios. They often outperform dense models of similar active parameter counts.
+**Why you care:** MoE models (like **DeepSeek-V3**, **[Nemotron 3 Super](../models/nemotron-3-super.md)**, **[DeepSeek-R1](../models/deepseek-r1.md)**, **Mixtral 8x22B**, **Grok-1**) currently offer some of the best reasoning-per-dollar ratios. They often outperform dense models of similar active parameter counts.
 **Action:** When evaluating models for complex reasoning tasks, prioritize MoE architectures if you are constrained by inference latency but have sufficient VRAM. For example, frameworks like [Agent-as-a-Judge](../papers/agent-as-a-judge.md) require running many evaluations, making MoE's efficiency critical.
 
 ### 💰 The Cost & Latency Optimizers (API Developers)
