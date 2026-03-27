@@ -30,6 +30,7 @@ A smart knowledge base about artificial intelligence.
 
 ## Core Concepts & Architecture
 *   [LatentMoE: Serving-Aware Sparse Compute](concepts/latent-moe.md) - *A memory-efficient MoE architecture.*
+*   [DeepSeek Sparse Attention (DSA)](concepts/deepseek-sparse-attention.md) - *A sparse attention mechanism that reduces quadratic complexity in long-context LLMs while preserving quality.*
 *   [Multi-Token Prediction (MTP)](concepts/multi-token-prediction.md) - *Predicting multiple future tokens in one forward pass.*
 *   [StreamingLLM & Attention Sinks: Efficient Streaming Language Models](concepts/streaming-llm.md) - *Generalizing LLMs trained with finite context windows to infinite sequences without fine-tuning.*
 *   [Continuous Batching: Iteration-Level Scheduling](concepts/continuous-batching.md) - *Maximizing GPU utilization by dynamically slotting in new requests as others finish.*

@@ -1,14 +1,14 @@
 # DeepSeek-V3.2: The Sparse Attention Evolution
 
 **TL;DR:**
-DeepSeek-V3.2 is an advancement over the original V3 model, primarily defined by the introduction of **DeepSeek Sparse Attention (DSA)**. It maintains the massive Mixture-of-Experts (MoE) backbone of its predecessor but drastically improves the efficiency of long-context inference. The series includes multiple variants, with the 685B parameter *Speciale* version achieving GPT-5 level reasoning in mathematical and algorithmic benchmarks.
+DeepSeek-V3.2 is an advancement over the original V3 model, primarily defined by the introduction of **[DeepSeek Sparse Attention (DSA)](../concepts/deepseek-sparse-attention.md)**. It maintains the massive Mixture-of-Experts (MoE) backbone of its predecessor but drastically improves the efficiency of long-context inference. The series includes multiple variants, with the 685B parameter *Speciale* version achieving GPT-5 level reasoning in mathematical and algorithmic benchmarks.
 
 ---
 
 ## The Architecture: Evolving from MLA to DSA
 DeepSeek-V3.2 builds directly upon the foundation laid by [DeepSeek-V3](../models/deepseek-v3.md), keeping the same embedding and [RoPE](../concepts/rotary-position-embedding.md) positional encoding while making a critical upgrade to its attention mechanism.
 
-### 1. From MLA to DeepSeek Sparse Attention (DSA)
+### 1. From MLA to [DeepSeek Sparse Attention (DSA)](../concepts/deepseek-sparse-attention.md)
 In DeepSeek-V3, the [Multi-Head Latent Attention (MLA)](../concepts/multi-head-latent-attention.md) mechanism compressed the Key-Value (KV) cache into a latent vector to save memory. DSA builds on this by introducing a two-stage sparse attention process for even greater efficiency in long-context scenarios (up to 128K tokens):
 *   **Lightning Indexer:** A lightweight, low-precision (FP8) mechanism computes relevance scores between the current query token and all preceding tokens.
 *   **Fine-Grained Token Selection:** Instead of running full attention over the entire context, the model uses the indexer's scores to select only the top-$k$ most relevant key/value pairs. Standard attention is then only computed on this much smaller subset.
