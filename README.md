@@ -29,6 +29,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [Flow Matching: Simulation-Free Continuous Normalizing Flows](concepts/flow-matching.md) - *A generative modeling paradigm that learns a continuous time-dependent transformation between noise and data without expensive simulations.*
 *   [LatentMoE: Serving-Aware Sparse Compute](concepts/latent-moe.md) - *A memory-efficient MoE architecture.*
 *   [DeepSeek Sparse Attention (DSA)](concepts/deepseek-sparse-attention.md) - *A sparse attention mechanism that reduces quadratic complexity in long-context LLMs while preserving quality.*
 *   [Multi-Token Prediction (MTP)](concepts/multi-token-prediction.md) - *Predicting multiple future tokens in one forward pass.*

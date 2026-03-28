@@ -13,7 +13,7 @@ If you double the sequence length, the computational cost quadruples ($O(N^2)$).
 
 ## Enter State Space Models (SSMs)
 
-State Space Models are not entirely new; they have roots in control theory (used in robotics and aerospace). At a high level, an SSM represents a system by tracking its internal "state" over time.
+State Space Models are not entirely new; they have roots in control theory (used in robotics, aerospace, and generative modeling like [Flow Matching](flow-matching.md)). At a high level, an SSM represents a system by tracking its internal "state" over time.
 
 Instead of looking back at the entire history like a Transformer, an SSM maintains a compressed hidden state. As new data arrives, the model updates this state and produces an output.
 
