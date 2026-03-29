@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [ZeroClaw: The Ultra-Lightweight Rust AI Agent Framework](models/zeroclaw.md) - *A blazing-fast, <5MB memory AI agent framework built entirely in Rust.*
 *   [Nano Banana 2: Gemini 3.1 Flash Image](models/nano-banana-2.md) - *Google's latest fast image generation model.*
 *   [Nemotron 3 Super: The Hybrid Mamba-MoE](models/nemotron-3-super.md) - *NVIDIA's 120B model (12B active) designed for agentic reasoning.*
 *   [MiniMax M2.7: SOTA Open Model](models/minimax-m2-7.md) - *MiniMax's SOTA open model matching GLM-5 at 1/3 the cost.*
