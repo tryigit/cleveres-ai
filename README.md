@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [QwQ-32B: The 32B Parameter Open-Source Reasoning Model](models/qwq-32b.md) - *Alibaba's open-source 32B model built for advanced reasoning and coding.*
 *   [Gemma 3: Google's Open-Weights Multimodal Model](models/gemma-3.md) - *A family of lightweight models from Google DeepMind capable of multimodal understanding.*
 *   [ZeroClaw: The Ultra-Lightweight Rust AI Agent Framework](models/zeroclaw.md) - *A blazing-fast, <5MB memory AI agent framework built entirely in Rust.*
 *   [Nano Banana 2: Gemini 3.1 Flash Image](models/nano-banana-2.md) - *Google's latest fast image generation model.*
@@ -65,5 +66,6 @@ A smart knowledge base about artificial intelligence.
 * [CleveresTech Telegram Group](t.me/cleverestech)
 
 ## Tools & Protocols
+*   [Claude Code: Anthropic's Agentic CLI Assistant](news/claude-code.md) - *Anthropic's CLI tool for autonomous coding and terminal commands, powered by Claude 3.7 Sonnet.*
 *   [Dynatomics: Larry Page's AI Manufacturing Startup](news/dynatomics.md) - *A new AI-first manufacturing company aiming to optimize product design and production using LLMs.*
 *   [Model Context Protocol (MCP): The USB-C for AI](concepts/model-context-protocol.md) - *Standardizing how AI models connect to data and tools, with Context7 as a prime example.*
