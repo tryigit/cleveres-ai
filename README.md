@@ -32,6 +32,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [1.58-bit LLMs: The Era of Ternary Weights](concepts/1-58-bit-llm.md) - *A new paradigm where LLM weights are restricted to {-1, 0, 1}, drastically reducing compute cost.*
 *   [Flow Matching: Simulation-Free Continuous Normalizing Flows](concepts/flow-matching.md) - *A generative modeling paradigm that learns a continuous time-dependent transformation between noise and data without expensive simulations.*
 *   [LatentMoE: Serving-Aware Sparse Compute](concepts/latent-moe.md) - *A memory-efficient MoE architecture.*
 *   [DeepSeek Sparse Attention (DSA)](concepts/deepseek-sparse-attention.md) - *A sparse attention mechanism that reduces quadratic complexity in long-context LLMs while preserving quality.*
@@ -66,6 +67,7 @@ A smart knowledge base about artificial intelligence.
 * [CleveresTech Telegram Group](t.me/cleverestech)
 
 ## Tools & Protocols
+*   [QonQrete: Sandboxed Agentic IDE](news/qonqrete.md) - *A local-first multi-agent system for code generation in safe sandboxes.*
 *   [Claude Code: Anthropic's Agentic CLI Assistant](news/claude-code.md) - *Anthropic's CLI tool for autonomous coding and terminal commands, powered by Claude 3.7 Sonnet.*
 *   [Dynatomics: Larry Page's AI Manufacturing Startup](news/dynatomics.md) - *A new AI-first manufacturing company aiming to optimize product design and production using LLMs.*
 *   [Model Context Protocol (MCP): The USB-C for AI](concepts/model-context-protocol.md) - *Standardizing how AI models connect to data and tools, with Context7 as a prime example.*
