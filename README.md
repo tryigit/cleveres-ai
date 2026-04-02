@@ -2,6 +2,8 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Voxtral 4B TTS: Mistral AI's Multilingual Text-to-Speech](models/voxtral-4b-tts.md) - *Mistral AI's model for generating realistic speech in 9 languages.*
+*   [Granite-Docling-258M: Ultra-Compact VLM for Document Conversion](models/granite-docling-258m.md) - *IBM's 258M parameter model for accurate and efficient document conversion.*
 *   [QwQ-32B: The 32B Parameter Open-Source Reasoning Model](models/qwq-32b.md) - *Alibaba's open-source 32B model built for advanced reasoning and coding.*
 *   [Gemma 3: Google's Open-Weights Multimodal Model](models/gemma-3.md) - *A family of lightweight models from Google DeepMind capable of multimodal understanding.*
 *   [ZeroClaw: The Ultra-Lightweight Rust AI Agent Framework](models/zeroclaw.md) - *A blazing-fast, <5MB memory AI agent framework built entirely in Rust.*
