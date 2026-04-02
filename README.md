@@ -47,6 +47,7 @@ A smart knowledge base about artificial intelligence.
 *   [Direct Preference Optimization (DPO)](concepts/direct-preference-optimization.md) - *A lightweight alternative to RLHF that turns the language model itself into a reward model via contrastive pairs.*
 *   [Group Relative Policy Optimization (GRPO): Efficient Reinforcement Learning](concepts/group-relative-policy-optimization.md) - *Streamlining RL by eliminating the value model and using group-based reward baselines.*
 *   [Low-Rank Adaptation (LoRA): Efficient Fine-Tuning](concepts/low-rank-adaptation.md) - *Fine-tuning massive models efficiently by injecting small, trainable rank decomposition matrices.*
+*   [Weight-Decomposed Low-Rank Adaptation (DoRA)](concepts/dora-weight-decomposed-low-rank-adaptation.md) - *A variant of LoRA that decomposes the pre-trained weight into two components, magnitude and direction, to enhance learning capacity without adding inference overhead.*
 *   [Grouped-Query Attention (GQA)](concepts/grouped-query-attention.md) - *An optimization technique that balances the efficiency of Multi-Query Attention with the performance of Multi-Head Attention.*
 *   [Retrieval-Augmented Generation (RAG): Bridging Knowledge and Generation](concepts/retrieval-augmented-generation.md) - *Reducing hallucinations by grounding model outputs in external data.*
 *   [Transformer Architecture: The Engine of Modern AI](concepts/transformer-architecture.md) - *The core mechanism behind GPT, BERT, and most modern LLMs using Self-Attention.*
