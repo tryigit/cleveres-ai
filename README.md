@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Qwen3.5-Omni: The Fully Omnimodal AI Model](models/qwen3-5-omni.md) - *Alibaba's latest model capable of native simultaneous processing of text, images, audio, and video.*
 *   [QwQ-32B: The 32B Parameter Open-Source Reasoning Model](models/qwq-32b.md) - *Alibaba's open-source 32B model built for advanced reasoning and coding.*
 *   [Gemma 3: Google's Open-Weights Multimodal Model](models/gemma-3.md) - *A family of lightweight models from Google DeepMind capable of multimodal understanding.*
 *   [ZeroClaw: The Ultra-Lightweight Rust AI Agent Framework](models/zeroclaw.md) - *A blazing-fast, <5MB memory AI agent framework built entirely in Rust.*
