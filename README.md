@@ -11,6 +11,7 @@ A smart knowledge base about artificial intelligence.
 *   [Nemotron 3 Super: The Hybrid Mamba-MoE](models/nemotron-3-super.md) - *NVIDIA's 120B model (12B active) designed for agentic reasoning.*
 *   [MiniMax M2.7: SOTA Open Model](models/minimax-m2-7.md) - *MiniMax's SOTA open model matching GLM-5 at 1/3 the cost.*
 *   [Xiaomi MiMo-V2-Pro: The API-Only Reasoning Engine](models/xiaomi-mimo-v2-pro.md) - *Xiaomi's API-only reasoning entrant with a 1M context window.*
+*   [Gemini 3.1 Flash-Lite: The Cost-Efficient High-Volume Model](models/gemini-3-1-flash-lite.md) - *Google's fastest and most cost-efficient Gemini 3 series model, optimized for high-volume, low-latency tasks.*
 *   [Gemini 3.1 Pro: The Expanded Context Engine](models/gemini-3-1-pro.md) - *Google's frontier reasoning model with a 1M token context window, natively multimodal.*
 *   [Claude Opus 4.6: The Long-Horizon Reasoning Engine](models/claude-opus-4-6.md) - *Anthropic's newly released model with a 1M token context window, engineered for long-horizon reasoning and autonomous agentic work.*
 *   [GPT-5.4 mini and nano: High-Volume Efficiency](models/gpt-5-4-mini-and-nano.md) - *OpenAI's latest highly efficient models optimized for speed, cost, and high-volume workloads.*
@@ -48,6 +49,7 @@ A smart knowledge base about artificial intelligence.
 *   [Direct Preference Optimization (DPO)](concepts/direct-preference-optimization.md) - *A lightweight alternative to RLHF that turns the language model itself into a reward model via contrastive pairs.*
 *   [Group Relative Policy Optimization (GRPO): Efficient Reinforcement Learning](concepts/group-relative-policy-optimization.md) - *Streamlining RL by eliminating the value model and using group-based reward baselines.*
 *   [Low-Rank Adaptation (LoRA): Efficient Fine-Tuning](concepts/low-rank-adaptation.md) - *Fine-tuning massive models efficiently by injecting small, trainable rank decomposition matrices.*
+*   [Weight-Decomposed Low-Rank Adaptation (DoRA)](concepts/dora-weight-decomposed-low-rank-adaptation.md) - *A variant of LoRA that decomposes the pre-trained weight into two components, magnitude and direction, to enhance learning capacity without adding inference overhead.*
 *   [Grouped-Query Attention (GQA)](concepts/grouped-query-attention.md) - *An optimization technique that balances the efficiency of Multi-Query Attention with the performance of Multi-Head Attention.*
 *   [Retrieval-Augmented Generation (RAG): Bridging Knowledge and Generation](concepts/retrieval-augmented-generation.md) - *Reducing hallucinations by grounding model outputs in external data.*
 *   [Transformer Architecture: The Engine of Modern AI](concepts/transformer-architecture.md) - *The core mechanism behind GPT, BERT, and most modern LLMs using Self-Attention.*

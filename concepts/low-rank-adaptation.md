@@ -61,3 +61,5 @@ If you use tools like Stable Diffusion or local LLMs (via Ollama/LM Studio):
 *   [Microsoft Research: LoRA Paper (Hu et al., 2021)](https://arxiv.org/abs/2106.09685)
 *   [Hugging Face: PEFT (Parameter-Efficient Fine-Tuning) Documentation](https://huggingface.co/docs/peft/index)
 *   [Towards Data Science: Understanding LoRA](https://towardsdatascience.com/understanding-lora-low-rank-adaptation-for-finetuning-large-models-936bce1a07c6)
+
+See also: [DoRA: Weight-Decomposed Low-Rank Adaptation](dora-weight-decomposed-low-rank-adaptation.md)
