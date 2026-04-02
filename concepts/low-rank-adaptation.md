@@ -42,6 +42,9 @@ Because $r \ll d$, the number of parameters in $A$ and $B$ is tiny compared to $
 Don't rely on generic prompting. Train a high-rank LoRA ($r=64$ or $r=128$) on your domain-specific dataset (e.g., legal contracts or internal documentation). This often outperforms [RAG](retrieval-augmented-generation.md) for capturing *style* and *nuance*, though RAG is better for *facts*.
 *   **Strategy:** Combine LoRA with [RAG](retrieval-augmented-generation.md). Use LoRA to teach the model "how to speak" (style/format) and RAG to provide "what to say" (knowledge).
 
+
+*   **DoRA Alternative:** Instead of standard LoRA, consider using [DoRA](../papers/dora-weight-decomposed-low-rank-adaptation.md) for even better performance on complex tasks without adding latency overhead.
+
 ### 💰 For The Cost & Latency Optimizers (API Developers)
 **Multi-Tenant Serving (LoRA Exchange).**
 Instead of deploying 50 different 70B models for 50 different clients (which is impossibly expensive), deploy **one** frozen base model.
