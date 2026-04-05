@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Gemma 4: Google's Most Capable Open Models](models/gemma-4.md) - *Google's new family of open models (E2B, E4B, 26B MoE, 31B Dense) for advanced reasoning.*
 *   [Voxtral 4B TTS: Mistral AI's Multilingual Text-to-Speech](models/voxtral-4b-tts.md) - *Mistral AI's model for generating realistic speech in 9 languages.*
 *   [Granite-Docling-258M: Ultra-Compact VLM for Document Conversion](models/granite-docling-258m.md) - *IBM's 258M parameter model for accurate and efficient document conversion.*
 *   [QwQ-32B: The 32B Parameter Open-Source Reasoning Model](models/qwq-32b.md) - *Alibaba's open-source 32B model built for advanced reasoning and coding.*
