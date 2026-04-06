@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Gemini 2.5 Pro Experimental: Google's Thinking Model](models/gemini-2-5-pro.md) - *Google's state-of-the-art thinking model scoring 63.8% on SWE-Bench Verified.*
 *   [Voxtral 4B TTS: Mistral AI's Multilingual Text-to-Speech](models/voxtral-4b-tts.md) - *Mistral AI's model for generating realistic speech in 9 languages.*
 *   [Granite-Docling-258M: Ultra-Compact VLM for Document Conversion](models/granite-docling-258m.md) - *IBM's 258M parameter model for accurate and efficient document conversion.*
 *   [QwQ-32B: The 32B Parameter Open-Source Reasoning Model](models/qwq-32b.md) - *Alibaba's open-source 32B model built for advanced reasoning and coding.*
