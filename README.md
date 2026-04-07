@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [VibeVoice: Microsoft's Frontier Long Conversational TTS](models/vibevoice.md) - *An open-source framework for generating expressive, long-form multi-speaker audio.*
 *   [Gemini 2.5 Pro Experimental: Google's Thinking Model](models/gemini-2-5-pro.md) - *Google's state-of-the-art thinking model scoring 63.8% on SWE-Bench Verified.*
 *   [Voxtral 4B TTS: Mistral AI's Multilingual Text-to-Speech](models/voxtral-4b-tts.md) - *Mistral AI's model for generating realistic speech in 9 languages.*
 *   [Granite-Docling-258M: Ultra-Compact VLM for Document Conversion](models/granite-docling-258m.md) - *IBM's 258M parameter model for accurate and efficient document conversion.*
@@ -38,6 +39,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [DualPath: Agentic LLM Inference](concepts/dualpath.md) - *A system architecture by DeepSeek to overcome the storage bandwidth bottleneck.*
 *   [1.58-bit LLMs: The Era of Ternary Weights](concepts/1-58-bit-llm.md) - *A new paradigm where LLM weights are restricted to {-1, 0, 1}, drastically reducing compute cost.*
 *   [Flow Matching: Simulation-Free Continuous Normalizing Flows](concepts/flow-matching.md) - *A generative modeling paradigm that learns a continuous time-dependent transformation between noise and data without expensive simulations.*
 *   [LatentMoE: Serving-Aware Sparse Compute](concepts/latent-moe.md) - *A memory-efficient MoE architecture.*

@@ -45,3 +45,5 @@ Use V3 for general tasks where you don't need the intense "thinking" process of 
 ## References
 *   [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) - Official paper.
 *   [DeepSeek-V3 GitHub Repository](https://github.com/deepseek-ai/DeepSeek-V3) - Code and model weights.
+
+See also: [DualPath](../concepts/dualpath.md)
