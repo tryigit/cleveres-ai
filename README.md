@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Gemma 4: Google's Most Capable Open Models](models/gemma-4.md) - *Google's new family of open models (E2B, E4B, 26B MoE, 31B Dense) for advanced reasoning.*
 *   [Trinity Large Thinking: Arcee's 400B Open-Source Model](models/trinity-large-thinking.md) - *A massive 400B-parameter open-source language model providing a Western alternative to Chinese models.*
 *   [VibeVoice: Microsoft's Frontier Long Conversational TTS](models/vibevoice.md) - *An open-source framework for generating expressive, long-form multi-speaker audio.*
 *   [Gemini 2.5 Pro Experimental: Google's Thinking Model](models/gemini-2-5-pro.md) - *Google's state-of-the-art thinking model scoring 63.8% on SWE-Bench Verified.*
