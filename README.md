@@ -33,6 +33,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [TraceSafe: Systematic Assessment of LLM Guardrails on Multi-Step Trajectories](papers/tracesafe.md) - *A benchmark for assessing mid-trajectory safety in autonomous agents.*
 *   [Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing (SRPO)](papers/sample-routed-policy-optimization.md) - *A unified on-policy framework combining GRPO and SDPO.*
 *   [Friends and Grandmothers in Silico: Localizing Entity Cells](papers/friends-and-grandmothers-in-silico.md) - *Localizing entity-selective MLP neurons to study internal mechanisms of language models for factual queries.*
 *   [Foundations of Schrödinger Bridges for Generative Modeling](papers/schrodinger-bridges-generative-modeling.md) - *A comprehensive toolkit for constructing Schrödinger bridges from first principles.*
