@@ -35,6 +35,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Demystifying OPD: Length Inflation and Stabilization Strategies for LLMs](papers/demystifying-opd-length-inflation.md) - *Addressing truncation collapse in on-policy distillation with StableOPD.*
+*   [Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts](papers/seeing-but-not-thinking-routing-distraction.md) - *Identifying and mitigating routing distraction that causes Multimodal MoE models to fail in reasoning tasks despite accurate visual perception.*
 *   [TraceSafe: Systematic Assessment of LLM Guardrails on Multi-Step Trajectories](papers/tracesafe.md) - *A benchmark for assessing mid-trajectory safety in autonomous agents.*
 *   [Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing (SRPO)](papers/sample-routed-policy-optimization.md) - *A unified on-policy framework combining GRPO and SDPO.*
 *   [Friends and Grandmothers in Silico: Localizing Entity Cells](papers/friends-and-grandmothers-in-silico.md) - *Localizing entity-selective MLP neurons to study internal mechanisms of language models for factual queries.*
