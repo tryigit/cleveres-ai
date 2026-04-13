@@ -2,6 +2,8 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [EXAONE 4.5: LG's Open-Weight Vision Language Model](models/exaone-4-5.md) - *A multimodal model extending context up to 256K tokens for document-centric enterprise applications.*
+*   [ECHO: Efficient Chest X-ray Report Generation](models/echo-chest-xray.md) - *A diffusion-based VLM reducing latency via one-step-per-block inference.*
 *   [GLM-5.1: The 754B Agentic MoE Model](models/glm-5-1.md) - *Z.ai's open-source MoE model engineered for autonomous work, beating Opus 4.6 on SWE-Bench Pro.*
 *   [OpenVLThinkerV2: Generalist Multimodal Reasoning Model](models/openvlthinkerv2.md) - *A general-purpose multimodal model utilizing Gaussian GRPO (G²RPO) to balance perception and multi-step reasoning.*
 *   [Gemma 4: Google's Most Capable Open Models](models/gemma-4.md) - *Google's new family of open models (E2B, E4B, 26B MoE, 31B Dense) for advanced reasoning.*
