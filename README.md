@@ -49,6 +49,7 @@ A smart knowledge base about artificial intelligence.
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
 
 ## Core Concepts & Architecture
+*   [TurboQuant: Extreme KV Cache Compression](concepts/turboquant.md) - *Google's algorithm for near-optimal vector quantization, achieving absolute quality neutrality with 3.5 bits per channel.*
 *   [DualPath: Agentic LLM Inference](concepts/dualpath.md) - *A system architecture by DeepSeek to overcome the storage bandwidth bottleneck.*
 *   [1.58-bit LLMs: The Era of Ternary Weights](concepts/1-58-bit-llm.md) - *A new paradigm where LLM weights are restricted to {-1, 0, 1}, drastically reducing compute cost.*
 *   [Flow Matching: Simulation-Free Continuous Normalizing Flows](concepts/flow-matching.md) - *A generative modeling paradigm that learns a continuous time-dependent transformation between noise and data without expensive simulations.*
