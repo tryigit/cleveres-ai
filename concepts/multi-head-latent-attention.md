@@ -59,3 +59,5 @@ While MLA runs under the hood, it changes how you can interact with the model.
 ## References
 *   [DeepSeek-V2 Technical Report](https://arxiv.org/abs/2405.04434) - The paper introducing MLA.
 *   [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) - Further refinement and deployment of MLA at scale.
+
+See also: [TurboQuant](turboquant.md)
