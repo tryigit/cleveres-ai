@@ -37,6 +37,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [DRA-GRPO: Diversity-aware Reward Adjustment for GRPO](papers/dra-grpo.md) - *A diversity-aware reward adjustment framework that prevents mode collapse in GRPO and enables high-quality mathematical reasoning.*
 *   [RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography](papers/radagent.md) - *A tool-using AI agent that generates CT reports through a stepwise and interpretable process.*
 *   [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](papers/rational-rewards.md) - *A framework for teaching reward models to produce explicit critiques before scoring, improving generators during training and testing.*
 *   [Relax: Omni-Modal RL Engine for MoEs](papers/relax-omni-modal-rl.md) - *An asynchronous, omni-native Reinforcement Learning post-training engine by RedNote AI for scaling post-training to multi-modal and MoE models.*

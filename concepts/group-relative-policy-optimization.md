@@ -50,3 +50,4 @@ To ensure the model does not "reward hack" or stray too far from its original, p
 *   [AReaL: Asynchronous Reinforcement Learning for Language Reasoning](../papers/areal.md) - *An alternative system-level paradigm for scaling RL by decoupling generation and training.*
 
 * [Sample-Routed Policy Optimization (SRPO)](../papers/sample-routed-policy-optimization.md) - *A unified on-policy framework combining GRPO and SDPO.*
+* [DRA-GRPO: Diversity-aware Reward Adjustment for GRPO](../papers/dra-grpo.md) - *A framework for calibrating the reward signal using semantic density to prevent mode collapse.*
