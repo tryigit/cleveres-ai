@@ -37,6 +37,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Micro Language Models Enable Instant Responses](papers/micro-language-models.md) - *Ultra-compact models (8M-30M parameters) that instantly generate the first words of a response on-device, masking cloud latency.*
 *   [EasyVideoR1: Easier RL for Video Understanding](papers/easyvideo-r1.md) - *A complete reinforcement learning framework tailored for training large vision-language models on video tasks.*
 *   [CrossMath: Modality Gap in VLM Reasoning](papers/crossmath-modality-gap.md) - *A benchmark revealing that current Vision-Language Models primarily reason in text space and rely minimally on genuine visual evidence.*
 *   [VGF: Reinforcement Learning via Value Gradient Flow](papers/vgf-reinforcement-learning.md) - *A scalable paradigm for behavior-regularized RL using optimal transport via discrete gradient flow.*
