@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [DeepSeek-V4: The Next Generation](models/deepseek-v4.md) - *The next generation of DeepSeek models, featuring Pro and Flash variants.*
 *   [EXAONE 4.5: LG's Open-Weight Vision Language Model](models/exaone-4-5.md) - *A multimodal model extending context up to 256K tokens for document-centric enterprise applications.*
 *   [ECHO: Efficient Chest X-ray Report Generation](models/echo-chest-xray.md) - *A diffusion-based VLM reducing latency via one-step-per-block inference.*
 *   [GLM-5.1: The 754B Agentic MoE Model](models/glm-5-1.md) - *Z.ai's open-source MoE model engineered for autonomous work, beating Opus 4.6 on SWE-Bench Pro.*
