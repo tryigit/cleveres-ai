@@ -52,3 +52,5 @@ While CoT started as a prompting technique ("Let's think step by step"), it has 
 ## References
 *   [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (Wei et al., 2022)](https://arxiv.org/abs/2201.11903)
 *   [Large Language Models are Zero-Shot Reasoners (Kojima et al., 2022)](https://arxiv.org/abs/2205.11916) - The origin of "Let's think step by step".
+
+See also: [MathDuels](../papers/mathduels.md)

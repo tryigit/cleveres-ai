@@ -53,3 +53,5 @@ To prove this concept, the authors introduced **DevAI**, a benchmark of 55 reali
 *   [arXiv: Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 *   [GitHub: Agent-as-a-Judge Repository](https://github.com/metauto-ai/agent-as-a-judge) (Check for updates/code release)
 *   Related Concept: [Mixture of Experts](../concepts/mixture-of-experts.md) (Efficient models make running these heavy judge agents more viable).
+
+See also: [MathDuels](mathduels.md)
