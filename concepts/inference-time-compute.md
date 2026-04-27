@@ -53,3 +53,5 @@ You don't need to prompt these models to "think step by step" - they already do.
 *   [Scaling Laws for Neural Language Models (Kaplan et al.)](https://arxiv.org/abs/2001.08361) - The original training scaling laws.
 *   [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) - OpenAI research on process supervision.
 *   [DeepSeek-R1 Technical Report](../models/deepseek-r1.md) - Practical implementation of inference-time scaling.
+
+See also: [How Do AI Agents Spend Your Money?](../papers/token-consumption-agents.md)

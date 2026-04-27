@@ -46,3 +46,5 @@ The researchers evaluated 13 general-purpose LLMs acting as guards and 7 special
 
 ## References
 *   [TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)
+
+See also: [How Do AI Agents Spend Your Money?](token-consumption-agents.md)
