@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Talkie-1930: The 13B Vintage Language Model](models/talkie-1930.md) - *A 13B parameter open-weight language model trained exclusively on pre-1931 English text to study generalization and LLM identity.*
 *   [DeepSeek-V4: The Next Generation](models/deepseek-v4.md) - *The next generation of DeepSeek models, featuring Pro and Flash variants.*
 *   [EXAONE 4.5: LG's Open-Weight Vision Language Model](models/exaone-4-5.md) - *A multimodal model extending context up to 256K tokens for document-centric enterprise applications.*
 *   [ECHO: Efficient Chest X-ray Report Generation](models/echo-chest-xray.md) - *A diffusion-based VLM reducing latency via one-step-per-block inference.*
@@ -98,6 +99,7 @@ A smart knowledge base about artificial intelligence.
 * [CleveresTech Telegram Group](t.me/cleverestech)
 
 ## Tools & Protocols
+*   [OpenAI Symphony: Open-Source Agentic Framework](news/openai-symphony.md) - *An open-source, Elixir-based framework designed to manage autonomous AI coding agents through structured implementation runs.*
 *   [Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure](news/sema-code.md) - *An open AI coding framework that decouples the core agent engine into a standalone library.*
 *   [QonQrete: Sandboxed Agentic IDE](news/qonqrete.md) - *A local-first multi-agent system for code generation in safe sandboxes.*
 *   [Claude Code: Anthropic's Agentic CLI Assistant](news/claude-code.md) - *Anthropic's CLI tool for autonomous coding and terminal commands, powered by Claude 3.7 Sonnet.*

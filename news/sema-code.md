@@ -36,3 +36,5 @@ This topic does not apply to everyday prompt engineers, as Sema Code is a develo
 
 ## Sources
 *   [Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure (arXiv:2604.11045)](https://arxiv.org/abs/2604.11045)
+
+See also: [OpenAI Symphony](openai-symphony.md)
