@@ -39,6 +39,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Step-Level Advantage Selection (SAS)](papers/step-level-advantage-selection.md) - *Stabilizing efficient reasoning by operating at the reasoning-step level to improve accuracy-efficiency trade-offs.*
 *   [How Do AI Agents Spend Your Money?](papers/token-consumption-agents.md) - *A systematic study revealing that agentic tasks are uniquely expensive and that frontier models struggle to predict token usage before task execution.*
 *   [MathDuels: Evaluating LLMs as Problem Posers and Solvers](papers/mathduels.md) - *A self-play benchmark where models act as both authors and solvers of math problems.*
 *   [Micro Language Models Enable Instant Responses](papers/micro-language-models.md) - *Ultra-compact models (8M-30M parameters) that instantly generate the first words of a response on-device, masking cloud latency.*
