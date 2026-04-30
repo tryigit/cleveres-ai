@@ -92,6 +92,7 @@ A smart knowledge base about artificial intelligence.
 *   [Ring Attention: Near-Infinite Context through Distributed Compute](concepts/ring-attention.md) - *A blockwise attention technique that scales context sizes linearly with the number of GPUs by forming a logical ring to overlap computation and communication.*
 
 ## Prompt Engineering Techniques
+*   [Token-Level Policy Optimization (TLPO)](techniques/token-level-policy-optimization.md) - *A fine-tuning framework designed to mitigate language confusion in LLMs through localized, token-level updates.*
 *   [Context Caching: The Cost-Cutting Superpower](techniques/context-caching.md) - *Reducing cost and latency by reusing the KV cache for large prompts.*
 *   [Double Question Prompting: Overcoming Causal LLM Limitations](techniques/double-question-prompting.md)
 *   [Speculative Decoding](techniques/speculative-decoding.md) - *Accelerating LLM inference by pairing a small draft model with a larger verification model.*

@@ -53,3 +53,5 @@ To ensure the model does not "reward hack" or stray too far from its original, p
 * [DRA-GRPO: Diversity-aware Reward Adjustment for GRPO](../papers/dra-grpo.md) - *A framework for calibrating the reward signal using semantic density to prevent mode collapse.*
 
 See also: [Step-Level Advantage Selection (SAS)](../papers/step-level-advantage-selection.md)
+
+See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-policy-optimization.md)
