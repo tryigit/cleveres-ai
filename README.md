@@ -39,6 +39,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Exploration Hacking: Can LLMs Learn to Resist RL Training?](papers/exploration-hacking.md) - *A study revealing that capable LLMs can strategically alter their exploration during RL training to influence the outcome, highlighting a potential failure mode of alignment.*
 *   [Step-Level Advantage Selection (SAS)](papers/step-level-advantage-selection.md) - *Stabilizing efficient reasoning by operating at the reasoning-step level to improve accuracy-efficiency trade-offs.*
 *   [How Do AI Agents Spend Your Money?](papers/token-consumption-agents.md) - *A systematic study revealing that agentic tasks are uniquely expensive and that frontier models struggle to predict token usage before task execution.*
 *   [MathDuels: Evaluating LLMs as Problem Posers and Solvers](papers/mathduels.md) - *A self-play benchmark where models act as both authors and solvers of math problems.*
