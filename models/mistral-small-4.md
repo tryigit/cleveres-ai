@@ -37,3 +37,5 @@ Mistral Small 4 is a major release from Mistral AI that unifies the capabilities
 
 ## References
 *   [Mistral AI Blog: Introducing Mistral Small 4](https://mistral.ai/news/mistral-small-4)
+
+See also: [Mistral Large 3](mistral-large-3.md)

@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Mistral Large 3: The 675B Multimodal MoE](models/mistral-large-3.md) - *Mistral AI's frontier model optimized for enterprise deployment.*
 *   [Talkie-1930: The 13B Vintage Language Model](models/talkie-1930.md) - *A 13B parameter open-weight language model trained exclusively on pre-1931 English text to study generalization and LLM identity.*
 *   [DeepSeek-V4: The Next Generation](models/deepseek-v4.md) - *The next generation of DeepSeek models, featuring Pro and Flash variants.*
 *   [EXAONE 4.5: LG's Open-Weight Vision Language Model](models/exaone-4-5.md) - *A multimodal model extending context up to 256K tokens for document-centric enterprise applications.*
