@@ -58,3 +58,5 @@ In a typical setup like **Mixtral 8x7B**:
 *   [DeepSeekMoE: Towards Ultimate Expert Specialization (DeepSeek, 2024)](https://arxiv.org/abs/2401.06066) - Advanced fine-grained expert segmentation.
 
 See also: [Seeing but Not Thinking: Routing Distraction in Multimodal MoE](../papers/seeing-but-not-thinking-routing-distraction.md)
+
+See also: [Mistral Large 3](../models/mistral-large-3.md)
