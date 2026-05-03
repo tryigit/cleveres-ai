@@ -37,3 +37,5 @@ Due to these complexities, the industry has actively researched alternative alig
 ## Sources
 *   [Reinforcement learning from human feedback - Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
 See also: [Exploration Hacking](../papers/exploration-hacking.md)
+
+See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](../papers/prism-pre-alignment.md)

@@ -55,3 +55,5 @@ To ensure the model does not "reward hack" or stray too far from its original, p
 See also: [Step-Level Advantage Selection (SAS)](../papers/step-level-advantage-selection.md)
 
 See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-policy-optimization.md)
+
+See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](../papers/prism-pre-alignment.md)
