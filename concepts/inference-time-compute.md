@@ -55,3 +55,5 @@ You don't need to prompt these models to "think step by step" - they already do.
 *   [DeepSeek-R1 Technical Report](../models/deepseek-r1.md) - Practical implementation of inference-time scaling.
 
 See also: [How Do AI Agents Spend Your Money?](../papers/token-consumption-agents.md)
+
+See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)

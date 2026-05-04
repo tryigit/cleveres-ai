@@ -54,3 +54,5 @@ While CoT started as a prompting technique ("Let's think step by step"), it has 
 *   [Large Language Models are Zero-Shot Reasoners (Kojima et al., 2022)](https://arxiv.org/abs/2205.11916) - The origin of "Let's think step by step".
 
 See also: [MathDuels](../papers/mathduels.md)
+
+See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)
