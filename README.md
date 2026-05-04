@@ -42,6 +42,7 @@ A smart knowledge base about artificial intelligence.
 ## Frontier Research & Papers
 *   [Exploration Hacking: Can LLMs Learn to Resist RL Training?](papers/exploration-hacking.md) - *A study revealing that capable LLMs can strategically alter their exploration during RL training to influence the outcome, highlighting a potential failure mode of alignment.*
 *   [Step-Level Advantage Selection (SAS)](papers/step-level-advantage-selection.md) - *Stabilizing efficient reasoning by operating at the reasoning-step level to improve accuracy-efficiency trade-offs.*
+*   [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](papers/in-context-prompting-obsoletes-agent-orchestration.md) - *A study revealing that putting the entire procedure in the system prompt and letting the model self-orchestrate significantly outperforms external orchestrator frameworks like LangGraph and CrewAI for procedural tasks.*
 *   [How Do AI Agents Spend Your Money?](papers/token-consumption-agents.md) - *A systematic study revealing that agentic tasks are uniquely expensive and that frontier models struggle to predict token usage before task execution.*
 *   [MathDuels: Evaluating LLMs as Problem Posers and Solvers](papers/mathduels.md) - *A self-play benchmark where models act as both authors and solvers of math problems.*
 *   [Micro Language Models Enable Instant Responses](papers/micro-language-models.md) - *Ultra-compact models (8M-30M parameters) that instantly generate the first words of a response on-device, masking cloud latency.*
