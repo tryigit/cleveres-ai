@@ -60,3 +60,5 @@ In a typical setup like **Mixtral 8x7B**:
 See also: [Seeing but Not Thinking: Routing Distraction in Multimodal MoE](../papers/seeing-but-not-thinking-routing-distraction.md)
 
 See also: [Mistral Large 3](../models/mistral-large-3.md)
+
+See also: [Qwen3-Omni](../models/qwen3-omni.md)
