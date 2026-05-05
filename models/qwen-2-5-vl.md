@@ -46,3 +46,5 @@ Deploy the **3B or 7B models** for high-volume tasks.
 *   [Qwen 2.5-VL Technical Report (arXiv:2502.13923)](https://arxiv.org/abs/2502.13923)
 *   [Qwen Blog: Qwen2.5-VL Released](https://qwenlm.github.io/blog/qwen2.5-vl/)
 *   [Hugging Face Collection](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5)
+
+See also: [Qwen3-Omni](qwen3-omni.md)
