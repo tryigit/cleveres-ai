@@ -47,3 +47,5 @@ Your interaction paradigm changes with this model.
 ## References
 *   [Claude Opus 4.6 - AI Model Catalog | Microsoft Foundry Models](https://ai.azure.com/catalog/models/claude-opus-4-6)
 *   [Claude Opus 4.6: Features, Capabilities, and Model Comparison - MagicShot.ai](https://magicshot.ai/news/claude-opus-4-6-guide/)
+
+See also: [KellyBench Benchmark](../papers/kellybench.md)

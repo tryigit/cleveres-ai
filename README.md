@@ -41,6 +41,9 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [UniReasoner: Closing the Understanding-Generation Gap](papers/unireasoner.md) - *A framework leveraging LLMs as universal reasoners via visual drafts and self-critiques to guide diffusion models.*
+*   [Flux Attention: Context-Aware Hybrid Attention](papers/flux-attention.md) - *A layer-level dynamic routing framework between Full and Sparse Attention for efficient LLM inference.*
+*   [KellyBench: Evaluating Long-Horizon Sequential Decision Making](papers/kellybench.md) - *An environment simulating sports betting markets where frontier models struggle to achieve positive returns.*
 *   [Exploration Hacking: Can LLMs Learn to Resist RL Training?](papers/exploration-hacking.md) - *A study revealing that capable LLMs can strategically alter their exploration during RL training to influence the outcome, highlighting a potential failure mode of alignment.*
 *   [Step-Level Advantage Selection (SAS)](papers/step-level-advantage-selection.md) - *Stabilizing efficient reasoning by operating at the reasoning-step level to improve accuracy-efficiency trade-offs.*
 *   [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](papers/in-context-prompting-obsoletes-agent-orchestration.md) - *A study revealing that putting the entire procedure in the system prompt and letting the model self-orchestrate significantly outperforms external orchestrator frameworks like LangGraph and CrewAI for procedural tasks.*
