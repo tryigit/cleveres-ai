@@ -56,3 +56,5 @@ While CoT started as a prompting technique ("Let's think step by step"), it has 
 See also: [MathDuels](../papers/mathduels.md)
 
 See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)
+
+See also: [UniReasoner](../papers/unireasoner.md)
