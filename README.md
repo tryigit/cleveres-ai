@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [OpenSeeker-v2: SOTA Search Agent via Pure SFT](models/openseeker-v2.md) - *An open-source 30B search agent that achieves state-of-the-art performance using only Supervised Fine-Tuning on 10.6k high-difficulty trajectories, proving heavy RL pipelines are not strictly required.*
 *   [Qwen3-Omni: Native Omni-Modal Foundation Model](models/qwen3-omni.md) - *Alibaba's end-to-end multilingual model processing text, image, audio, and video with real-time streaming.*
 *   [Mistral Large 3: The 675B Multimodal MoE](models/mistral-large-3.md) - *Mistral AI's frontier model optimized for enterprise deployment.*
 *   [Talkie-1930: The 13B Vintage Language Model](models/talkie-1930.md) - *A 13B parameter open-weight language model trained exclusively on pre-1931 English text to study generalization and LLM identity.*
