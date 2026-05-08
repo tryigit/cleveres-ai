@@ -41,3 +41,5 @@ See also: [Exploration Hacking](../papers/exploration-hacking.md)
 See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](../papers/prism-pre-alignment.md)
 
 See also: [OpenSeeker-v2](../models/openseeker-v2.md)
+
+See also: [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](../papers/marble-reward-balance.md)

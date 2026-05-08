@@ -52,3 +52,5 @@ You are already using RAG without knowing it.
 ## Sources
 *   [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020)](https://arxiv.org/abs/2005.11401) - The original paper that coined the term.
 *   [LangChain Documentation](https://python.langchain.com/docs/use_cases/question_answering/) - Practical implementation guide.
+
+See also: [MiA-Signature](../papers/mia-signature.md)

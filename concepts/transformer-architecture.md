@@ -68,3 +68,5 @@ Understanding that the model "attends" to all parts of your prompt helps you wri
 ## References
 *   [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762) - The original paper.
 *   [The Illustrated Transformer (Jay Alammar)](http://jalammar.github.io/illustrated-transformer/) - The classic visual guide.
+
+See also: [MiA-Signature](../papers/mia-signature.md)
