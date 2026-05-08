@@ -42,6 +42,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/mia-signature.md) - *A compact representation that approximates the global influence of activation on downstream processing for long-context tasks.*
+*   [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](papers/marble-reward-balance.md) - *A gradient-space optimization framework that maintains independent advantage estimators for each reward in Diffusion RL.*
 *   [UniReasoner: Closing the Understanding-Generation Gap](papers/unireasoner.md) - *A framework leveraging LLMs as universal reasoners via visual drafts and self-critiques to guide diffusion models.*
 *   [Flux Attention: Context-Aware Hybrid Attention](papers/flux-attention.md) - *A layer-level dynamic routing framework between Full and Sparse Attention for efficient LLM inference.*
 *   [KellyBench: Evaluating Long-Horizon Sequential Decision Making](papers/kellybench.md) - *An environment simulating sports betting markets where frontier models struggle to achieve positive returns.*
