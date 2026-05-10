@@ -62,3 +62,5 @@ See also: [Seeing but Not Thinking: Routing Distraction in Multimodal MoE](../pa
 See also: [Mistral Large 3](../models/mistral-large-3.md)
 
 See also: [Qwen3-Omni](../models/qwen3-omni.md)
+
+See also: [UniPool (Shared Expert Pool)](../papers/unipool-shared-moe.md)
