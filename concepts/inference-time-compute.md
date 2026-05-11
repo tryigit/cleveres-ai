@@ -57,3 +57,5 @@ You don't need to prompt these models to "think step by step" - they already do.
 See also: [How Do AI Agents Spend Your Money?](../papers/token-consumption-agents.md)
 
 See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)
+
+See also: [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../papers/llms-improving-llms.md)
