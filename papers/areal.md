@@ -45,3 +45,5 @@ This decoupling allows for continuous, maximum GPU utilization, radically reduci
 ## References
 *   [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning (arXiv)](https://arxiv.org/abs/2505.24298)
 *   [AReaL GitHub Repository](https://github.com/inclusionAI/AReaL)
+
+See also: [FlashEvolve](flashevolve-accelerating-agent.md)
