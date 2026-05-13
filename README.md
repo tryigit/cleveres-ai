@@ -42,6 +42,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models](papers/single-neuron-safety-bypass.md) - *Safety alignment in LLMs can be bypassed by targeting a single refusal or concept neuron.*
+*   [Teaching Language Models to Think in Code](papers/thinking-in-code.md) - *A framework replacing natural language reasoning with code execution to reduce intermediate reasoning errors.*
 *   [FlashEvolve: Accelerating Agent Self-Evolution](papers/flashevolve-accelerating-agent.md) - *An efficient framework that replaces synchronized execution with asynchronous workers and queues to speed up LLM-based agent evolution.*
 *   [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](papers/llms-improving-llms.md) - *AutoTTS: an environment-driven framework for automatic discovery of test-time scaling strategies.*
 *   [UniPool: A Globally Shared Expert Pool for Mixture-of-Experts](papers/unipool-shared-expert-pool.md) - *An MoE architecture that replaces per-layer expert ownership with a single shared pool, reducing redundancy and enabling sublinear expert-parameter growth.*

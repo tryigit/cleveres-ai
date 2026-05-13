@@ -58,3 +58,5 @@ See also: [MathDuels](../papers/mathduels.md)
 See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)
 
 See also: [UniReasoner](../papers/unireasoner.md)
+
+See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code.md)

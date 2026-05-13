@@ -43,3 +43,5 @@ See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimo
 See also: [OpenSeeker-v2](../models/openseeker-v2.md)
 
 See also: [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](../papers/marble-reward-balance.md)
+
+See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code.md), [A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models](../papers/single-neuron-safety-bypass.md)
