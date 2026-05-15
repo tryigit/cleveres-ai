@@ -57,3 +57,5 @@ See also: [Step-Level Advantage Selection (SAS)](../papers/step-level-advantage-
 See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-policy-optimization.md)
 
 See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](../papers/prism-pre-alignment.md)
+
+See also: [Self-Distilled Agentic Reinforcement Learning](../papers/self-distilled-agentic-rl.md)
