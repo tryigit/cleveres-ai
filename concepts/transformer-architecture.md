@@ -70,3 +70,5 @@ Understanding that the model "attends" to all parts of your prompt helps you wri
 *   [The Illustrated Transformer (Jay Alammar)](http://jalammar.github.io/illustrated-transformer/) - The classic visual guide.
 
 See also: [MiA-Signature](../papers/mia-signature.md)
+
+See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)
