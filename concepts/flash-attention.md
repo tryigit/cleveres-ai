@@ -51,3 +51,5 @@ While you won't write code for FlashAttention, you benefit from it directly. It 
 *   [Dao-AILab/flash-attention GitHub Repository](https://github.com/Dao-AILab/flash-attention)
 
 See also: [Flux Attention](../papers/flux-attention.md)
+
+See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)

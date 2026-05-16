@@ -42,6 +42,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Long Context Pre-Training with Lighthouse Attention](papers/lighthouse-attention.md) - *A symmetrical selection-based hierarchical attention algorithm that addresses the quadratic time and memory bottleneck of scaled dot-product attention in causal transformers during extreme long-context pre-training.*
 *   [Self-Distilled Agentic Reinforcement Learning](papers/self-distilled-agentic-rl.md) - *A reinforcement learning framework that treats On-Policy Self-Distillation (OPSD) as a gated auxiliary objective, avoiding compounding multi-turn instability in multi-turn agents.*
 *   [A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models](papers/single-neuron-safety-bypass.md) - *Safety alignment in LLMs can be bypassed by targeting a single refusal or concept neuron.*
 *   [Teaching Language Models to Think in Code](papers/thinking-in-code.md) - *A framework replacing natural language reasoning with code execution to reduce intermediate reasoning errors.*

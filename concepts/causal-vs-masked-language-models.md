@@ -50,3 +50,4 @@ Knowing that you are interacting with a Causal Language Model helps you structur
 *   [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762)
 *   [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018)](https://arxiv.org/abs/1810.04805)
 *   [Language Models are Unsupervised Multitask Learners (Radford et al., 2019)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)
