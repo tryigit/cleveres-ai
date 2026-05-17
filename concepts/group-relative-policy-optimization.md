@@ -59,3 +59,5 @@ See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-poli
 See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](../papers/prism-pre-alignment.md)
 
 See also: [Self-Distilled Agentic Reinforcement Learning](../papers/self-distilled-agentic-rl.md)
+
+See also: [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](../papers/atlas-agentic-latent-visual-reasoning.md)
