@@ -37,3 +37,5 @@ OpenManus is an open-source framework designed for building general AI agents. I
 ## References
 *   [GitHub: OpenManus Repository](https://github.com/FoundationAgents/OpenManus)
 *   [Hugging Face Space: OpenManus Demo](https://huggingface.co/spaces/lyh-917/OpenManusDemo)
+
+See also: [MMSkills: Towards Multimodal Skills for General Visual Agents](../papers/mmskills-towards-multimodal-skills-for-general-visual-agents.md)

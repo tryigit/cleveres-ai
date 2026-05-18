@@ -49,3 +49,5 @@ While SDAR is a training methodology, understanding its mechanics explains why n
 ***
 
 **Source:** [Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2605.15155)
+
+See also: [MMSkills: Towards Multimodal Skills for General Visual Agents](mmskills-towards-multimodal-skills-for-general-visual-agents.md)
