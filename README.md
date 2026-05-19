@@ -42,6 +42,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](papers/incantation-natural-language-action.md) - *An interactive video world model that uses per-latent-frame natural language conditioning for multi-entity control, achieving 19.7 FPS at 480p.*
 *   [MMSkills: Towards Multimodal Skills for General Visual Agents](papers/mmskills-towards-multimodal-skills-for-general-visual-agents.md) - *A framework for representing, generating, and using reusable multimodal procedures for runtime visual decision making.*
 *   [Long Context Pre-Training with Lighthouse Attention](papers/lighthouse-attention.md) - *A symmetrical selection-based hierarchical attention algorithm that addresses the quadratic time and memory bottleneck of scaled dot-product attention in causal transformers during extreme long-context pre-training.*
 *   [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](papers/atlas-agentic-latent-visual-reasoning.md) - *A framework combining agentic and latent visual reasoning using a single discrete functional token, stabilized by Latent-Anchored GRPO (LA-GRPO).*
