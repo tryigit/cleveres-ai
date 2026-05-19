@@ -51,3 +51,5 @@ This means the model inherently understands "Token B is 3 spots away from Token 
 
 ## References
 *   [RoFormer: Enhanced Transformer with Rotary Position Embedding (arXiv)](https://arxiv.org/abs/2104.09864)
+
+See also: [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](../papers/incantation-natural-language-action.md)
