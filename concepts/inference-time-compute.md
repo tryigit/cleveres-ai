@@ -59,3 +59,5 @@ See also: [How Do AI Agents Spend Your Money?](../papers/token-consumption-agent
 See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks](../papers/in-context-prompting-obsoletes-agent-orchestration.md)
 
 See also: [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../papers/llms-improving-llms.md)
+
+See also: [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../papers/equilibrium-reasoners.md)
