@@ -63,3 +63,5 @@ See also: [Self-Distilled Agentic Reinforcement Learning](../papers/self-distill
 See also: [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](../papers/atlas-agentic-latent-visual-reasoning.md)
 
 See also: [GoLongRL](../papers/golongrl.md)
+
+See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)

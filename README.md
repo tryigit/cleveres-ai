@@ -43,6 +43,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](papers/vector-policy-optimization.md) - *An RL algorithm that explicitly trains policies to anticipate diverse downstream vector-valued reward functions, improving test-time search and unlocking problems GRPO models cannot solve.*
 *   [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](papers/golongrl.md) - *A fully open-source recipe for long-context RLVR featuring capability-oriented data construction and TMN-Reweight for heterogeneous multitask optimization.*
 *   [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](papers/incantation-natural-language-action.md) - *An interactive video world model that uses per-latent-frame natural language conditioning for multi-entity control, achieving 19.7 FPS at 480p.*
 *   [MMSkills: Towards Multimodal Skills for General Visual Agents](papers/mmskills-towards-multimodal-skills-for-general-visual-agents.md) - *A framework for representing, generating, and using reusable multimodal procedures for runtime visual decision making.*
