@@ -61,3 +61,5 @@ See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tas
 See also: [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../papers/llms-improving-llms.md)
 
 See also: [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../papers/equilibrium-reasoners.md)
+
+See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)
