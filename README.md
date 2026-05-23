@@ -82,6 +82,7 @@ A smart knowledge base about artificial intelligence.
 *   [FlashAttention-4: Adapting to Asymmetric Hardware Scaling](papers/flash-attention-4.md) - *Algorithm and Kernel Pipelining Co-Design to handle shifting bottlenecks in Blackwell (B200) architectures.*
 *   [AReaL: Asynchronous Reinforcement Learning](papers/areal.md) - *A fully asynchronous RL system decoupling generation from training to maximize GPU utilization.*
 *   [Agent-as-a-Judge: Evaluate Agents with Agents](papers/agent-as-a-judge.md) - *Evaluating autonomous agents by using other agents to verify their process.*
+*   [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](papers/vector-policy-optimization.md) - *An RL algorithm (VPO) that explicitly trains policies to anticipate diverse downstream reward functions and produce diverse solutions for better test-time search.*
 
 ## Core Concepts & Architecture
 *   [Odds Ratio Preference Optimization (ORPO)](concepts/orpo.md) - *A monolithic preference alignment algorithm that combines SFT and alignment without a reference model.*
