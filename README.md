@@ -44,6 +44,8 @@ A smart knowledge base about artificial intelligence.
 
 ## Frontier Research & Papers
 *   [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](papers/golongrl.md) - *A fully open-source recipe for long-context RLVR featuring capability-oriented data construction and TMN-Reweight for heterogeneous multitask optimization.*
+*   [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](papers/moss-self-evolution.md) - *A system that performs self-rewriting at the source level on production agentic substrates.*
+*   [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](papers/gated-deltanet-2.md) - *Generalizing adaptive forgetting and channel-wise decay for Linear Attention without scrambling existing associations.*
 *   [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](papers/incantation-natural-language-action.md) - *An interactive video world model that uses per-latent-frame natural language conditioning for multi-entity control, achieving 19.7 FPS at 480p.*
 *   [MMSkills: Towards Multimodal Skills for General Visual Agents](papers/mmskills-towards-multimodal-skills-for-general-visual-agents.md) - *A framework for representing, generating, and using reusable multimodal procedures for runtime visual decision making.*
 *   [Long Context Pre-Training with Lighthouse Attention](papers/lighthouse-attention.md) - *A symmetrical selection-based hierarchical attention algorithm that addresses the quadratic time and memory bottleneck of scaled dot-product attention in causal transformers during extreme long-context pre-training.*

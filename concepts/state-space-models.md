@@ -55,3 +55,5 @@ Mamba is primarily an architectural change under the hood. As an end-user, you w
 *   [What Is A Mamba Model? (IBM)](https://www.ibm.com/think/topics/mamba-model)
 *   [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Original Paper)](https://arxiv.org/abs/2312.00752)
 *   [A Visual Guide to Mamba and State Space Models](https://www.maartengrootendorst.com/blog/mamba/)
+
+See also: [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](../papers/gated-deltanet-2.md)
