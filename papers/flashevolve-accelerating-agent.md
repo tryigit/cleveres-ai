@@ -40,3 +40,5 @@ While FlashEvolve is a framework for automated agent evolution, the concept of "
 ---
 **Sources:**
 *   [FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration (arXiv)](https://arxiv.org/abs/2605.08520)
+
+See also: [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](moss-self-evolution.md)
