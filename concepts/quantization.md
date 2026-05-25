@@ -43,3 +43,5 @@ If you use tools like LM Studio or Ollama on your personal laptop, you are using
 *   [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 *   [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 *   [llama.cpp GitHub Repository](https://github.com/ggerganov/llama.cpp)
+
+See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../papers/shannon-scaling-law.md)
