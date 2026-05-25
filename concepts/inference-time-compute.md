@@ -63,3 +63,5 @@ See also: [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../pape
 See also: [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](../papers/equilibrium-reasoners.md)
 
 See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)
+
+See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../papers/shannon-scaling-law.md)

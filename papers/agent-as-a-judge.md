@@ -55,3 +55,5 @@ To prove this concept, the authors introduced **DevAI**, a benchmark of 55 reali
 *   Related Concept: [Mixture of Experts](../concepts/mixture-of-experts.md) (Efficient models make running these heavy judge agents more viable).
 
 See also: [MathDuels](mathduels.md)
+
+See also: [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](skillopt.md)

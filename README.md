@@ -43,6 +43,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](papers/shannon-scaling-law.md) - *A unified theoretical framework modeling LLM training as information transmission over a noisy channel, explaining catastrophic overtraining and quantization-induced degradation.*
+*   [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](papers/skillopt.md) - *A systematic controllable text-space optimizer for agent skills that turns scored rollouts into bounded add/delete/replace edits on a single skill document.*
 *   [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](papers/golongrl.md) - *A fully open-source recipe for long-context RLVR featuring capability-oriented data construction and TMN-Reweight for heterogeneous multitask optimization.*
 *   [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](papers/moss-self-evolution.md) - *A system that performs self-rewriting at the source level on production agentic substrates.*
 *   [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](papers/gated-deltanet-2.md) - *Generalizing adaptive forgetting and channel-wise decay for Linear Attention without scrambling existing associations.*
