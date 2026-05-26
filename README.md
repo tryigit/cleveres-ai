@@ -43,6 +43,9 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+-   [Looped Diffusion Language Models](papers/looped-diffusion-language-models.md) - *Selectively looping early-middle transformer layers in MDMs for training and inference efficiency.*
+-   [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](papers/orpquant-transformer-quantization.md) - *Algorithm-hardware co-design for Power-of-Two (PoT) quantization addressing geometric limitations.*
+-   [Language Models Need Sleep](papers/language-models-need-sleep.md) - *Sleep-like consolidation mechanism converting context into persistent fast weights using SSM blocks.*
 *   [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](papers/shannon-scaling-law.md) - *A unified theoretical framework modeling LLM training as information transmission over a noisy channel, explaining catastrophic overtraining and quantization-induced degradation.*
 *   [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](papers/skillopt.md) - *A systematic controllable text-space optimizer for agent skills that turns scored rollouts into bounded add/delete/replace edits on a single skill document.*
 *   [GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](papers/golongrl.md) - *A fully open-source recipe for long-context RLVR featuring capability-oriented data construction and TMN-Reweight for heterogeneous multitask optimization.*

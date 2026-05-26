@@ -57,3 +57,5 @@ Mamba is primarily an architectural change under the hood. As an end-user, you w
 *   [A Visual Guide to Mamba and State Space Models](https://www.maartengrootendorst.com/blog/mamba/)
 
 See also: [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](../papers/gated-deltanet-2.md)
+
+See also: [Language Models Need Sleep](../papers/language-models-need-sleep.md)
