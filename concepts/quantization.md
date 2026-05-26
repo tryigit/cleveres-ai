@@ -45,3 +45,5 @@ If you use tools like LM Studio or Ollama on your personal laptop, you are using
 *   [llama.cpp GitHub Repository](https://github.com/ggerganov/llama.cpp)
 
 See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../papers/shannon-scaling-law.md)
+
+See also: [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](../papers/orpquant-transformer-quantization.md)

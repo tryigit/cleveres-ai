@@ -72,3 +72,7 @@ Understanding that the model "attends" to all parts of your prompt helps you wri
 See also: [MiA-Signature](../papers/mia-signature.md)
 
 See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)
+
+- [Looped Diffusion Language Models](../papers/looped-diffusion-language-models.md)
+- [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](../papers/orpquant-transformer-quantization.md)
+- [Language Models Need Sleep](../papers/language-models-need-sleep.md)
