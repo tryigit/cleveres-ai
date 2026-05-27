@@ -43,6 +43,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](papers/muse-autoskill.md) - *A skill-centric agent framework for continuous improvement via lifecycle-managed skills.*
+*   [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](papers/locateanything.md) - *A unified generative grounding and detection framework based on Parallel Box Decoding.*
 -   [Looped Diffusion Language Models](papers/looped-diffusion-language-models.md) - *Selectively looping early-middle transformer layers in MDMs for training and inference efficiency.*
 -   [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](papers/orpquant-transformer-quantization.md) - *Algorithm-hardware co-design for Power-of-Two (PoT) quantization addressing geometric limitations.*
 -   [Language Models Need Sleep](papers/language-models-need-sleep.md) - *Sleep-like consolidation mechanism converting context into persistent fast weights using SSM blocks.*
