@@ -57,3 +57,5 @@ To prove this concept, the authors introduced **DevAI**, a benchmark of 55 reali
 See also: [MathDuels](mathduels.md)
 
 See also: [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](skillopt.md)
+
+See also: [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](muse-autoskill.md)
