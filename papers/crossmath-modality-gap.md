@@ -23,3 +23,5 @@ To address this limitation, the researchers curated a specific training dataset 
 **Sources:**
 * [arXiv:2604.16256 - Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap](https://arxiv.org/abs/2604.16256)
 * [CrossMath GitHub Repository](https://github.com/xuyige/CrossMath)
+
+See also: [OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration](omniverifier-m1.md)
