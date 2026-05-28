@@ -65,3 +65,5 @@ See also: [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Bot
 See also: [GoLongRL](../papers/golongrl.md)
 
 See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)
+
+See also: [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](../papers/skill-conditioned-gated-self-distillation.md)
