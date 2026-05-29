@@ -60,4 +60,5 @@ DeepSeek didn't just release the massive 671B model. They "distilled" the reason
 *   [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (DeepSeek AI, 2025)](https://github.com/deepseek-ai/DeepSeek-R1)
 *   [DeepSeek-V3 Technical Report (DeepSeek AI, 2024)](https://github.com/deepseek-ai/DeepSeek-V3)
 
-See also: [DeepSeek-V4](deepseek-v4.md)
+
+See also: [DeepSeek-V4: The Next Generation](deepseek-v4.md)

@@ -48,6 +48,7 @@ Use V3 for general tasks where you don't need the intense "thinking" process of 
 
 See also: [DualPath](../concepts/dualpath.md)
 
-See also: [DeepSeek-V4](deepseek-v4.md)
 
 See also: [Mistral Large 3](mistral-large-3.md)
+
+See also: [DeepSeek-V4: The Next Generation](deepseek-v4.md)
