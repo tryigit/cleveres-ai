@@ -50,3 +50,5 @@ While mostly an API feature, understanding it helps you design better system pro
 ## References
 *   [Anthropic Prompt Caching Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching) - Detailed implementation guide.
 *   [Retrieval-Augmented Generation (RAG)](../concepts/retrieval-augmented-generation.md) - Context caching is a powerful alternative or companion to RAG.
+
+See also: [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](../papers/pando-online-skill-distillation.md)

@@ -65,3 +65,5 @@ PagedAttention solves the *fragmentation* of the KV Cache. Other cutting-edge ap
 *   [Efficient Memory Management for Large Language Model Serving with PagedAttention (Woosuk Kwon et al., 2023)](https://dl.acm.org/doi/10.1145/3600006.3613165)
 
 See also: [TurboQuant](turboquant.md)
+
+See also: [CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM](../papers/conf-kv-confidence-aware-eviction.md)
