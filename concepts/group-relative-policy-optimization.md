@@ -67,3 +67,5 @@ See also: [GoLongRL](../papers/golongrl.md)
 See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)
 
 See also: [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](../papers/skill-conditioned-gated-self-distillation.md)
+
+See also: [DeepSeek-V4: The Next Generation](../models/deepseek-v4.md)
