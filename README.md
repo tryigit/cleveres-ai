@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](papers/video-mla.md) - *Applies Multi-Head Latent Attention to video diffusion, reducing per-token KV memory by 92.7% at every cached layer.*
 *   [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](papers/equilibrium-reasoners.md) - *A framework for scalable reasoning using latent dynamical systems and attractors, unrolling up to 40,000 layers.*
 *   [OpenSeeker-v2: SOTA Search Agent via Pure SFT](models/openseeker-v2.md) - *An open-source 30B search agent that achieves state-of-the-art performance using only Supervised Fine-Tuning on 10.6k high-difficulty trajectories, proving heavy RL pipelines are not strictly required.*
 *   [Qwen3-Omni: Native Omni-Modal Foundation Model](models/qwen3-omni.md) - *Alibaba's end-to-end multilingual model processing text, image, audio, and video with real-time streaming.*
