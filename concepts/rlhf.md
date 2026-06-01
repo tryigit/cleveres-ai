@@ -47,3 +47,5 @@ See also: [MARBLE: Multi-Aspect Reward Balance for Diffusion RL](../papers/marbl
 See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code.md), [A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models](../papers/single-neuron-safety-bypass.md)
 
 See also: [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](../papers/atlas-agentic-latent-visual-reasoning.md)
+
+See also: [LongTraceRL](../papers/longtracerl.md)
