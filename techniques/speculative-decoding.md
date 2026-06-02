@@ -45,3 +45,5 @@ While you do not implement speculative decoding directly in your prompts, it imp
 *   [Fast Inference from Transformers via Speculative Decoding (Leviathan et al.)](https://arxiv.org/abs/2211.17192) - Foundational paper on the technique.
 *   [Accelerating Large Language Model Decoding with Speculative Sampling (Chen et al.)](https://arxiv.org/abs/2302.01318) - DeepMind research on speculative sampling.
 *   [Speculative Decoding: A Guide With Implementation Examples (DataCamp)](https://www.datacamp.com/tutorial/speculative-decoding) - Practical guide and implementation details.
+
+See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](../papers/simsd-speculative-decoding-diffusion.md)
