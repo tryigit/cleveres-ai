@@ -33,3 +33,5 @@ The mechanism essentially promotes deeper interactions among masked positions wi
 **Source:** [arXiv:2605.26106](https://arxiv.org/abs/2605.26106)
 **See also:**
 - [Transformer Architecture: The Engine of Modern AI](../concepts/transformer-architecture.md)
+
+See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](simsd-speculative-decoding-diffusion.md)
