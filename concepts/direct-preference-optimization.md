@@ -45,3 +45,5 @@ Instead of a continuous reward score, DPO requires "preference data". This means
 *   [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (arXiv)](https://arxiv.org/abs/2305.18290)
 
 See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-policy-optimization.md)
+
+See also: [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](../papers/skill-rm.md)

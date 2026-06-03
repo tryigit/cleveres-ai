@@ -45,6 +45,7 @@ A smart knowledge base about artificial intelligence.
 
 ## Frontier Research & Papers
 *   [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](papers/longtracerl.md) - *A framework for long-context reasoning using tiered distractors and rubric rewards.*
+*   [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](papers/skill-rm.md) - *A unified framework that reformulates reward modeling as the execution of a reusable Reward-Evaluation Skill, dynamically orchestrating heterogeneous resources.*
 *   [Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization](papers/positional-vs-symbolic-attention.md) - *An analysis of attention heads showing successful learning emerges as pure positional or symbolic heads, and their implications for length generalization.*
 *   [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](papers/skill-conditioned-gated-self-distillation.md) - *A robust gated self-distillation objective that treats teacher guidance as hypotheses to validate rather than unconditional rules to imitate.*
 *   [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](papers/pando-online-skill-distillation.md) - *A single-rollout online skill-distillation framework that maintains a structured Skill Library and combines progress reflection, confidence-based skill demotion, hierarchical routing, visual compression, and cache-aware prompting.*
