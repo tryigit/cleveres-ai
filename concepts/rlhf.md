@@ -49,3 +49,5 @@ See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code
 See also: [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](../papers/atlas-agentic-latent-visual-reasoning.md)
 
 See also: [LongTraceRL](../papers/longtracerl.md)
+
+See also: [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](../papers/skill-rm.md)
