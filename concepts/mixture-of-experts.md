@@ -64,3 +64,5 @@ See also: [Mistral Large 3](../models/mistral-large-3.md)
 See also: [Qwen3-Omni](../models/qwen3-omni.md)
 
 See also: [UniPool: Shared Expert Pool](../papers/unipool-shared-expert-pool.md)
+
+See also: [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](../papers/alphaq-calibration-free-moe-quantization.md)

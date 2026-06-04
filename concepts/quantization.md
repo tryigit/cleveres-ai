@@ -49,3 +49,5 @@ See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and S
 See also: [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](../papers/orpquant-transformer-quantization.md)
 
 See also: [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](../papers/subfit-submodule-replacement-compression.md)
+
+See also: [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](../papers/alphaq-calibration-free-moe-quantization.md)

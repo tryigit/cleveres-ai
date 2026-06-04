@@ -44,6 +44,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](papers/alphaq-calibration-free-moe-quantization.md) - *A novel, calibration-free mixed-precision quantization method for MoE models that leverages Heavy-Tailed Self-Regularization to achieve near full-precision accuracy with an average expert precision of only 3.5 bits.*
 *   [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](papers/longtracerl.md) - *A framework for long-context reasoning using tiered distractors and rubric rewards.*
 *   [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](papers/skill-rm.md) - *A unified framework that reformulates reward modeling as the execution of a reusable Reward-Evaluation Skill, dynamically orchestrating heterogeneous resources.*
 *   [Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization](papers/positional-vs-symbolic-attention.md) - *An analysis of attention heads showing successful learning emerges as pure positional or symbolic heads, and their implications for length generalization.*
