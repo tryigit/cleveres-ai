@@ -59,3 +59,5 @@ See also: [MathDuels](mathduels.md)
 See also: [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](skillopt.md)
 
 See also: [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](muse-autoskill.md)
+
+See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](evods-self-evolving-data-science-agent.md)
