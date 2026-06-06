@@ -63,3 +63,5 @@ If you use tools like Stable Diffusion or local LLMs (via Ollama/LM Studio):
 *   [Towards Data Science: Understanding LoRA](https://towardsdatascience.com/understanding-lora-low-rank-adaptation-for-finetuning-large-models-936bce1a07c6)
 
 See also: [DoRA: Weight-Decomposed Low-Rank Adaptation](dora-weight-decomposed-low-rank-adaptation.md)
+
+See also: [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](../papers/code2lora-hypernetwork-generated-adapters.md)

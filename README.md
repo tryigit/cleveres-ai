@@ -44,6 +44,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+* [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/code2lora-hypernetwork-generated-adapters.md)
 *   [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](papers/alphaq-calibration-free-moe-quantization.md) - *A novel, calibration-free mixed-precision quantization method for MoE models that leverages Heavy-Tailed Self-Regularization to achieve near full-precision accuracy with an average expert precision of only 3.5 bits.*
 *   [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](papers/evods-self-evolving-data-science-agent.md) - *A self-evolving autonomous data science agent that learns to expand its skills and adaptively managing long-term context through agentic reinforcement learning.*
 *   [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](papers/longtracerl.md) - *A framework for long-context reasoning using tiered distractors and rubric rewards.*
