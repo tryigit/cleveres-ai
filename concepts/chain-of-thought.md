@@ -60,3 +60,5 @@ See also: [In-Context Prompting Obsoletes Agent Orchestration for Procedural Tas
 See also: [UniReasoner](../papers/unireasoner.md)
 
 See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code.md)
+
+See also: [Latent Reasoning with Normalizing Flows](../papers/latent-reasoning-normalizing-flows.md)
