@@ -65,3 +65,7 @@ See also: [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
 See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](../papers/vector-policy-optimization.md)
 
 See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](../papers/shannon-scaling-law.md)
+
+See also:
+* [Latent Reasoning with Normalizing Flows](../papers/latent-reasoning-normalizing-flows.md)
+* [The Shadow Price of Reasoning](../papers/shadow-price-of-reasoning.md)
