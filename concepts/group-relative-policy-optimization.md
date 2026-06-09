@@ -69,3 +69,5 @@ See also: [Vector Policy Optimization: Training for Diversity Improves Test-Time
 See also: [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](../papers/skill-conditioned-gated-self-distillation.md)
 
 See also: [DeepSeek-V4: The Next Generation](../models/deepseek-v4.md)
+
+See also: [Why Muon Outperforms Adam: A Curvature Perspective](../papers/why-muon-outperforms-adam.md)

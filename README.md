@@ -44,6 +44,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](papers/aha-wam.md) - *A decoupled, dual-frequency DiT architecture for high-performance robot manipulation.*
+*   [Why Muon Outperforms Adam: A Curvature Perspective](papers/why-muon-outperforms-adam.md) - *An analysis showing Muon optimizes LLM training by maintaining lower Normalized Directional Sharpness.*
 *   [Latent Reasoning with Normalizing Flows](papers/latent-reasoning-normalizing-flows.md) - *Introduces NF-CoT, a framework that models continuous thoughts with normalizing flows to replace discrete explicit Chain-of-Thought, preserving probabilistic sampling while reducing intermediate-reasoning cost.*
 *   [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](papers/embedfilter-unembedding-matrix.md) - *Introduces EmbedFilter, a linear transformation that refines LLM text embeddings by filtering out the high-frequency token subspace encoded in the unembedding matrix, improving semantics and enabling dimensionality reduction.*
 *   [Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback](papers/critic-r-agentic-search.md) - *A framework that improves agentic search by explicitly closing the feedback loop between the reasoning agent and the retrieval model using natural language introspective feedback, without requiring manual relevance annotations.*
