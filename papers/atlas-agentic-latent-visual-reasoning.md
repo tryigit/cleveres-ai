@@ -37,3 +37,5 @@ While ATLAS is an architectural framework, its existence signals that future mul
 * ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both (arXiv:2605.15198)
 
 See also: [Latent Reasoning with Normalizing Flows](latent-reasoning-normalizing-flows.md)
+
+See also: [AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](aha-wam.md)
