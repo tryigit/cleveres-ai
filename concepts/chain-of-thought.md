@@ -62,3 +62,5 @@ See also: [UniReasoner](../papers/unireasoner.md)
 See also: [Teaching Language Models to Think in Code](../papers/thinking-in-code.md)
 
 See also: [Latent Reasoning with Normalizing Flows](../papers/latent-reasoning-normalizing-flows.md)
+
+See also: [Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](../papers/attention-amnesia-in-hybrid-llms.md)
