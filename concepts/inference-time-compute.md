@@ -69,3 +69,5 @@ See also: [LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and S
 See also:
 * [Latent Reasoning with Normalizing Flows](../papers/latent-reasoning-normalizing-flows.md)
 * [The Shadow Price of Reasoning](../papers/shadow-price-of-reasoning.md)
+
+See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../papers/evoflux-inference-time-evolution.md)

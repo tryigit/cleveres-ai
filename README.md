@@ -44,6 +44,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](papers/evoflux-inference-time-evolution.md) - *An inference-time evolutionary search method that improves the execution reliability of small language models on complex tool workflows.*
+*   [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](papers/switch-latent-reasoning.md) - *A framework named SWITCH that uses explicit boundary tokens to make latent chain-of-thought trainable via standard on-policy RL like GRPO.*
 *   [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](papers/manifold-power-iteration-moe.md) - *Aligning router rows with principal singular directions using Manifold Power Iteration.*
 *   [InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](papers/internvideo3-agentify-foundation-models.md) - *A framework for long-video understanding via MCR and M^2LA.*
 *   [Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](papers/attention-amnesia-in-hybrid-llms.md) - *A foundational study and QK-Restore training-free fix for the long-context recall degradation caused by CoT fine-tuning.*
