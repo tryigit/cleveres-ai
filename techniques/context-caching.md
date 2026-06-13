@@ -56,3 +56,5 @@ See also: [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](
 See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](../papers/evods-self-evolving-data-science-agent.md)
 
 See also: [SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](../papers/searchswarm.md)
+
+See also: [See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents](../papers/dense-latent-communication.md)

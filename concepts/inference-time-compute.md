@@ -71,3 +71,5 @@ See also:
 * [The Shadow Price of Reasoning](../papers/shadow-price-of-reasoning.md)
 
 See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../papers/evoflux-inference-time-evolution.md)
+
+See also: [WebChallenger: A Reliable and Efficient Generalist Web Agent](../papers/webchallenger.md)
