@@ -44,6 +44,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [WebChallenger: A Reliable and Efficient Generalist Web Agent](papers/webchallenger.md) - *A generalist web agent framework achieving high performance without model scaling.*
+*   [The Cold-Start Safety Gap in LLM Agents](papers/cold-start-safety-gap.md) - *A study revealing LLM tool-calling agents are most vulnerable to safety threats at the start of sessions.*
 *   [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](papers/evoflux-inference-time-evolution.md) - *An inference-time evolutionary search method that improves the execution reliability of small language models on complex tool workflows.*
 *   [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](papers/switch-latent-reasoning.md) - *A framework named SWITCH that uses explicit boundary tokens to make latent chain-of-thought trainable via standard on-policy RL like GRPO.*
 *   [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](papers/manifold-power-iteration-moe.md) - *Aligning router rows with principal singular directions using Manifold Power Iteration.*

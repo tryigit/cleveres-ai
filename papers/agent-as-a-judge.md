@@ -61,3 +61,5 @@ See also: [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](skillopt
 See also: [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](muse-autoskill.md)
 
 See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](evods-self-evolving-data-science-agent.md)
+
+See also: [WebChallenger: A Reliable and Efficient Generalist Web Agent](webchallenger.md)
