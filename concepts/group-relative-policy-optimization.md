@@ -73,3 +73,5 @@ See also: [DeepSeek-V4: The Next Generation](../models/deepseek-v4.md)
 See also: [Why Muon Outperforms Adam: A Curvature Perspective](../papers/why-muon-outperforms-adam.md)
 
 See also: [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](../papers/switch-latent-reasoning.md)
+
+See also: [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../papers/s2l-po.md)
