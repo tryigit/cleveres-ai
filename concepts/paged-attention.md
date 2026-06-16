@@ -67,3 +67,5 @@ PagedAttention solves the *fragmentation* of the KV Cache. Other cutting-edge ap
 See also: [TurboQuant](turboquant.md)
 
 See also: [CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM](../papers/conf-kv-confidence-aware-eviction.md)
+
+See also: [Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](../papers/tangram-non-uniform-kv-compression.md)
