@@ -44,6 +44,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](papers/tangram-non-uniform-kv-compression.md) - *A serving framework that handles non-uniform KV cache budgets across attention heads to improve multi-turn LLM serving throughput.*
 *   [WebChallenger: A Reliable and Efficient Generalist Web Agent](papers/webchallenger.md) - *A generalist web agent framework achieving high performance without model scaling.*
 *   [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](papers/s2l-po.md) - *S2L-PO framework leveraging small models as natural explorers to train larger models in GRPO.*
 *   [The Cold-Start Safety Gap in LLM Agents](papers/cold-start-safety-gap.md) - *A study revealing LLM tool-calling agents are most vulnerable to safety threats at the start of sessions.*

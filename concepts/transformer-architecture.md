@@ -84,3 +84,5 @@ See also: [From Layers to Submodules: Rethinking Granularity in Replacement-Base
 See also: [AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](../papers/aha-wam.md)
 
 See also: [Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](../papers/attention-amnesia-in-hybrid-llms.md)
+
+See also: [Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](../papers/tangram-non-uniform-kv-compression.md)
