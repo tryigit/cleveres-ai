@@ -68,3 +68,5 @@ See also: [UniPool: Shared Expert Pool](../papers/unipool-shared-expert-pool.md)
 See also: [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](../papers/alphaq-calibration-free-moe-quantization.md)
 
 See also: [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](../papers/manifold-power-iteration-moe.md)
+
+See also: [Variable-Width Transformers](../papers/variable-width-transformers.md)

@@ -71,3 +71,5 @@ See also:
 * [The Shadow Price of Reasoning](../papers/shadow-price-of-reasoning.md)
 
 See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../papers/evoflux-inference-time-evolution.md)
+
+See also: [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](../papers/loopcoder-v2.md)
