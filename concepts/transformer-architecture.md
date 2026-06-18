@@ -88,3 +88,7 @@ See also: [Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Ra
 See also: [Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](../papers/tangram-non-uniform-kv-compression.md)
 
 See also: [Variable-Width Transformers](../papers/variable-width-transformers.md)
+
+See also: [Sumi: Open Uniform Diffusion Language Model from Scratch](../models/sumi-uniform-diffusion.md)
+
+See also: [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](../papers/sae-interventions-unreliable.md)

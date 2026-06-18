@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Sumi: Open Uniform Diffusion Language Model from Scratch](models/sumi-uniform-diffusion.md) - *A fully open 7B uniform diffusion language model pretrained from scratch.*
 *   [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](papers/video-mla.md) - *Applies Multi-Head Latent Attention to video diffusion, reducing per-token KV memory by 92.7% at every cached layer.*
 *   [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](papers/equilibrium-reasoners.md) - *A framework for scalable reasoning using latent dynamical systems and attractors, unrolling up to 40,000 layers.*
 *   [OpenSeeker-v2: SOTA Search Agent via Pure SFT](models/openseeker-v2.md) - *An open-source 30B search agent that achieves state-of-the-art performance using only Supervised Fine-Tuning on 10.6k high-difficulty trajectories, proving heavy RL pipelines are not strictly required.*
@@ -44,6 +45,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](papers/sae-interventions-unreliable.md) - *Exposes a gap between feature-level control and behavioral completeness in Sparse Autoencoders.*
 *   [Variable-Width Transformers](papers/variable-width-transformers.md) - *An architecture proposing nonuniform capacity allocation across network depth, outperforming uniform baselines.*
 *   [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](papers/loopcoder-v2.md) - *Parallel Loop Transformers (PLT) that optimize test-time computation scaling by demonstrating the two-loop variant delivers broad gains over non-looped baselines.*
 *   [Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](papers/tangram-non-uniform-kv-compression.md) - *A serving framework that handles non-uniform KV cache budgets across attention heads to improve multi-turn LLM serving throughput.*
