@@ -37,3 +37,5 @@ The mechanism essentially promotes deeper interactions among masked positions wi
 See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](simsd-speculative-decoding-diffusion.md)
 
 See also: [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](loopcoder-v2.md)
+
+See also: [Sumi: Open Uniform Diffusion Language Model from Scratch](../models/sumi-uniform-diffusion.md)
