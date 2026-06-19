@@ -45,6 +45,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines](papers/fapo-fully-autonomous-prompt-optimization.md) - *A framework for fully autonomous prompt and structural optimization of multi-step LLM pipelines using an agent within a standardized codebase.*
+*   [Thinking with Visual Grounding](papers/thinking-with-visual-grounding.md) - *A reasoning process where Vision-Language Models interleave natural-language thoughts with explicit point or box groundings of the visual evidence used at each step.*
 *   [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](papers/sae-interventions-unreliable.md) - *Exposes a gap between feature-level control and behavioral completeness in Sparse Autoencoders.*
 *   [Variable-Width Transformers](papers/variable-width-transformers.md) - *An architecture proposing nonuniform capacity allocation across network depth, outperforming uniform baselines.*
 *   [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](papers/loopcoder-v2.md) - *Parallel Loop Transformers (PLT) that optimize test-time computation scaling by demonstrating the two-loop variant delivers broad gains over non-looped baselines.*

@@ -44,3 +44,5 @@ You do not need a massive server farm to run Gemma 3. Thanks to its lightweight 
 ## References
 *   [Gemma 3 Model Overview - Google AI for Developers](https://ai.google.dev/gemma/docs/core)
 *   [Gemma 3 Technical Report](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+
+See also: [Thinking with Visual Grounding](../papers/thinking-with-visual-grounding.md)
