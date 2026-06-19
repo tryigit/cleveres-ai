@@ -51,4 +51,4 @@ Anthropic claims Claude Code excels at real-world agentic coding and system task
 *   [Claude Code Overview (Anthropic Docs)](https://code.claude.com/docs/en/overview)
 *   [Claude 3.7 Sonnet and Claude Code Announcement (Anthropic News)](https://www.anthropic.com/news/claude-3-7-sonnet)
 
-See also: [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](../papers/moss-self-evolution.md)
+See also: [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](../papers/moss-self-evolution.md), [FAPO: Fully Autonomous Prompt Optimization](../papers/fapo-fully-autonomous-prompt-optimization.md)

@@ -65,4 +65,4 @@ See also: [Latent Reasoning with Normalizing Flows](../papers/latent-reasoning-n
 
 See also: [Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](../papers/attention-amnesia-in-hybrid-llms.md)
 
-See also: [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](../papers/switch-latent-reasoning.md)
+See also: [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](../papers/switch-latent-reasoning.md), [Thinking with Visual Grounding](../papers/thinking-with-visual-grounding.md)
