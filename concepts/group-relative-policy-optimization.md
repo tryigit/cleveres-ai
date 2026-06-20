@@ -74,4 +74,4 @@ See also: [Why Muon Outperforms Adam: A Curvature Perspective](../papers/why-muo
 
 See also: [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](../papers/switch-latent-reasoning.md)
 
-See also: [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../papers/s2l-po.md)
+See also: [Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO](../papers/s2l-po.md), [Context-Aware RL for Agentic and Multimodal LLMs](../papers/contextrl.md)
