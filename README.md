@@ -45,6 +45,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Context-Aware RL for Agentic and Multimodal LLMs](papers/contextrl.md) - *A context-aware reinforcement learning method that improves long-horizon reasoning and multimodal performance through an indirect auxiliary objective.*
 *   [FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines](papers/fapo-fully-autonomous-prompt-optimization.md) - *A framework for fully autonomous prompt and structural optimization of multi-step LLM pipelines using an agent within a standardized codebase.*
 *   [Thinking with Visual Grounding](papers/thinking-with-visual-grounding.md) - *A reasoning process where Vision-Language Models interleave natural-language thoughts with explicit point or box groundings of the visual evidence used at each step.*
 *   [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](papers/sae-interventions-unreliable.md) - *Exposes a gap between feature-level control and behavioral completeness in Sparse Autoencoders.*
