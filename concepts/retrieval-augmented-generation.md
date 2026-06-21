@@ -53,4 +53,4 @@ You are already using RAG without knowing it.
 *   [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (Lewis et al., 2020)](https://arxiv.org/abs/2005.11401) - The original paper that coined the term.
 *   [LangChain Documentation](https://python.langchain.com/docs/use_cases/question_answering/) - Practical implementation guide.
 
-See also: [MiA-Signature](../papers/mia-signature.md), [Critic-R](../papers/critic-r-agentic-search.md), [EmbedFilter](../papers/embedfilter-unembedding-matrix.md)
+See also: [MiA-Signature](../papers/mia-signature.md), [Critic-R](../papers/critic-r-agentic-search.md), [EmbedFilter](../papers/embedfilter-unembedding-matrix.md), [Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](../papers/acie-agentic-clinical.md)
