@@ -45,6 +45,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](papers/perceptiondlm.md) - *A multimodal diffusion language model that achieves parallel visual region perception and captioning using structured attention masking, bypassing autoregressive bottlenecks.*
 *   [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](papers/ledgeragent.md) - *An inference-time method for tool-calling agents that maintains observed task states in a separate ledger.*
 *   [Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](papers/acie-agentic-clinical.md) - *An on-premise agentic RAG pipeline that reasons over complete patient contexts.*
 *   [Context-Aware RL for Agentic and Multimodal LLMs](papers/contextrl.md) - *A context-aware reinforcement learning method that improves long-horizon reasoning and multimodal performance through an indirect auxiliary objective.*

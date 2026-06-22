@@ -39,3 +39,5 @@ While ATLAS is an architectural framework, its existence signals that future mul
 See also: [Latent Reasoning with Normalizing Flows](latent-reasoning-normalizing-flows.md)
 
 See also: [AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](aha-wam.md)
+
+See also: [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](perceptiondlm.md)

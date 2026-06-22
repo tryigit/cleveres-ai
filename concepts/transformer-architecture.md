@@ -92,3 +92,5 @@ See also: [Variable-Width Transformers](../papers/variable-width-transformers.md
 See also: [Sumi: Open Uniform Diffusion Language Model from Scratch](../models/sumi-uniform-diffusion.md)
 
 See also: [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](../papers/sae-interventions-unreliable.md)
+
+See also: [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](../papers/perceptiondlm.md)

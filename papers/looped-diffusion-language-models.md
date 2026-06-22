@@ -39,3 +39,5 @@ See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](sims
 See also: [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](loopcoder-v2.md)
 
 See also: [Sumi: Open Uniform Diffusion Language Model from Scratch](../models/sumi-uniform-diffusion.md)
+
+See also: [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](perceptiondlm.md)
