@@ -45,6 +45,9 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Tapered Language Models](papers/tapered-language-models.md) - *An architectural principle in which a parameter-bearing component is monotonically tapered across depth under a fixed total budget.*
+*   [Unlimited OCR Works](papers/unlimited-ocr-works.md) - *A model designed to emulate human parsing working memory using Reference Sliding Window Attention (R-SWA) to maintain a constant KV cache.*
+*   [Self-Compacting Language Model Agents](papers/self-compacting-language-model-agents.md) - *A scaffold that allows the model itself to decide when and how to compact accumulated context using a compaction tool and a lightweight rubric.*
 *   [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](papers/perceptiondlm.md) - *A multimodal diffusion language model that achieves parallel visual region perception and captioning using structured attention masking, bypassing autoregressive bottlenecks.*
 *   [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](papers/ledgeragent.md) - *An inference-time method for tool-calling agents that maintains observed task states in a separate ledger.*
 *   [Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](papers/acie-agentic-clinical.md) - *An on-premise agentic RAG pipeline that reasons over complete patient contexts.*
