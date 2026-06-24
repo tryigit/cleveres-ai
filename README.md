@@ -45,6 +45,11 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](papers/naturebench.md) - *Evaluating AI coding agents beyond reproduction toward discovery on real scientific problems.*
+*   [Qwen-AgentWorld: Language World Models for General Agents](papers/qwen-agentworld.md) - *Building foundation models for agentic environment simulation covering 7 domains via long chain-of-thought reasoning.*
+*   [OpenThoughts-Agent: Data Recipes for Agentic Models](papers/openthoughts-agent.md) - *An open data curation pipeline yielding insights on the importance of task sources and diversity for training broadly capable agents.*
+*   [When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents](papers/premature-commitment-in-llm-agents.md) - *Diagnosing long-horizon LLM agent failure where they settle on one reading of the evidence early, using cross-run hidden-state convergence.*
+*   [A Verifiable Search Is Not a Learnable Chain-of-Thought](papers/verifiable-search-not-learnable-cot.md) - *Revealing that when a procedure's only solution is search over information-free structure, no faithful forward chain-of-thought exists to imitate.*
 *   [Tapered Language Models](papers/tapered-language-models.md) - *An architectural principle in which a parameter-bearing component is monotonically tapered across depth under a fixed total budget.*
 *   [Unlimited OCR Works](papers/unlimited-ocr-works.md) - *A model designed to emulate human parsing working memory using Reference Sliding Window Attention (R-SWA) to maintain a constant KV cache.*
 *   [Self-Compacting Language Model Agents](papers/self-compacting-language-model-agents.md) - *A scaffold that allows the model itself to decide when and how to compact accumulated context using a compaction tool and a lightweight rubric.*
