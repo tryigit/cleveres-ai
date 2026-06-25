@@ -45,6 +45,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do](papers/look-light-think-heavy.md) - *What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short?*
+*   [Are We Ready For An Agent-Native Memory System?](papers/agent-native-memory-system.md) - *A systematic experimental study of agent memory from a data management perspective.*
 *   [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](papers/naturebench.md) - *Evaluating AI coding agents beyond reproduction toward discovery on real scientific problems.*
 *   [Qwen-AgentWorld: Language World Models for General Agents](papers/qwen-agentworld.md) - *Building foundation models for agentic environment simulation covering 7 domains via long chain-of-thought reasoning.*
 *   [OpenThoughts-Agent: Data Recipes for Agentic Models](papers/openthoughts-agent.md) - *An open data curation pipeline yielding insights on the importance of task sources and diversity for training broadly capable agents.*
