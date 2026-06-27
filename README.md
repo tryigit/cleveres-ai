@@ -45,6 +45,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](papers/qwen-image-agent.md) - *A unified agentic framework that treats user input as partial context and progressively constructs the generation context through Context-Aware Planning and Context Grounding.*
+*   [Information-Aware KV Cache Compression for Long Reasoning](papers/infokv-cache-compression.md) - *InfoKV, an entropy-aware KV cache compression framework that incorporates information-theoretic signals rather than relying solely on attention weights.*
 *   [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](papers/verification-horizon-no-silver-bullet.md) - *A study revealing that generating complex candidate solutions is no longer difficult for modern coding agents, and that reliably verifying them has become the central challenge, requiring verification systems to co-evolve with generators.*
 *   [Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do](papers/look-light-think-heavy.md) - *What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short?*
 *   [Are We Ready For An Agent-Native Memory System?](papers/agent-native-memory-system.md) - *A systematic experimental study of agent memory from a data management perspective.*
