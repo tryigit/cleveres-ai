@@ -45,6 +45,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+* [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](papers/blockpilot-speculative-decoding.md) - *A sample-adaptive policy that predicts the optimal block size from the prefilling representation for diffusion-based speculative decoding, accelerating inference.*
 *   [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](papers/agents-a1.md) - *A 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling long-horizon trajectories.*
 *   [BashCoder-R1: Towards Robust and Explainable Bash Code Generation with Robustness-Aware Group Relative Policy Optimization](papers/bashcoder-r1.md) - *A framework combining Continual Pre-training, Long Chain-of-Thought SFT, and Robustness-Aware GRPO to generate robust and explainable Bash scripts, outperforming DeepSeek-V3.2.*
 *   [Qwen-Image-2.0-RL Technical Report](papers/qwen-image-2-0-rl.md) - *A post-training pipeline applying RLHF and on-policy distillation to improve visual quality and instruction-following for the Qwen-Image-2.0 diffusion model.*
