@@ -46,4 +46,4 @@ While you do not implement speculative decoding directly in your prompts, it imp
 *   [Accelerating Large Language Model Decoding with Speculative Sampling (Chen et al.)](https://arxiv.org/abs/2302.01318) - DeepMind research on speculative sampling.
 *   [Speculative Decoding: A Guide With Implementation Examples (DataCamp)](https://www.datacamp.com/tutorial/speculative-decoding) - Practical guide and implementation details.
 
-See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](../papers/simsd-speculative-decoding-diffusion.md), [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](../papers/jetspec-parallel-tree-drafting.md)
+See also: [SimSD: Simple Speculative Decoding in Diffusion Language Models](../papers/simsd-speculative-decoding-diffusion.md), [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](../papers/jetspec-parallel-tree-drafting.md), [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](../papers/blockpilot-speculative-decoding.md)
