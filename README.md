@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](models/seed2-0.md) - *A model series targeting real-world complexity and long-tail knowledge by substantially improving instruction following and reliability on intricate, long-horizon tasks.*
 *   [Sumi: Open Uniform Diffusion Language Model from Scratch](models/sumi-uniform-diffusion.md) - *A fully open 7B uniform diffusion language model pretrained from scratch.*
 *   [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](papers/video-mla.md) - *Applies Multi-Head Latent Attention to video diffusion, reducing per-token KV memory by 92.7% at every cached layer.*
 *   [Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning](papers/equilibrium-reasoners.md) - *A framework for scalable reasoning using latent dynamical systems and attractors, unrolling up to 40,000 layers.*
@@ -45,6 +46,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [ASPIRE: Agentic /Skills Discovery for Robotics](papers/aspire-agentic-skills-discovery.md) - *A continual learning system that autonomously writes and refines robot control programs in a code-as-policy paradigm while compounding experience into a reusable skill library.*
 * [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](papers/blockpilot-speculative-decoding.md) - *A sample-adaptive policy that predicts the optimal block size from the prefilling representation for diffusion-based speculative decoding, accelerating inference.*
 *   [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](papers/agents-a1.md) - *A 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling long-horizon trajectories.*
 *   [BashCoder-R1: Towards Robust and Explainable Bash Code Generation with Robustness-Aware Group Relative Policy Optimization](papers/bashcoder-r1.md) - *A framework combining Continual Pre-training, Long Chain-of-Thought SFT, and Robustness-Aware GRPO to generate robust and explainable Bash scripts, outperforming DeepSeek-V3.2.*
