@@ -48,3 +48,5 @@ When building custom agentic workflows or complex prompt chains, everyday users 
 **Sources:**
 *   arXiv: https://arxiv.org/abs/2606.03980v1
 *   Code: https://github.com/Qwen-Applications/Skill-RM
+
+See also: [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](skillcoach.md)

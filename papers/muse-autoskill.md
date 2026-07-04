@@ -36,4 +36,4 @@ If you are building custom GPTs or local agents that execute code, try prompt pa
 ---
 **Source:** https://arxiv.org/abs/2605.27366
 
-See also: [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](pando-online-skill-distillation.md)
+See also: [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](pando-online-skill-distillation.md), [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](skillcoach.md)
