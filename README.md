@@ -46,6 +46,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+* [ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](papers/recontext-recursive-evidence-replay.md) - *A training-free inference method that uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation to improve long-context reasoning.*
 *   [ASPIRE: Agentic /Skills Discovery for Robotics](papers/aspire-agentic-skills-discovery.md) - *A continual learning system that autonomously writes and refines robot control programs in a code-as-policy paradigm while compounding experience into a reusable skill library.*
 * [BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](papers/blockpilot-speculative-decoding.md) - *A sample-adaptive policy that predicts the optimal block size from the prefilling representation for diffusion-based speculative decoding, accelerating inference.*
 *   [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](papers/agents-a1.md) - *A 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling long-horizon trajectories.*
