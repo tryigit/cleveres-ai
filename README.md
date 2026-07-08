@@ -46,6 +46,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [MentalThink: Shaping Thoughts in Mental SVG World](papers/mentalthink.md) - *A visual-symbolic reasoning paradigm that equips Multimodal LLMs with an executable mechanism for "mental" visualization using SVG code.*
+*   [Vision as Unified Multimodal Generation](papers/sensenova-vision.md) - *SenseNova-Vision expresses heterogeneous visual tasks in native text and image generation spaces, removing task-specific architectures.*
 *   [LLM-as-a-Verifier: A General-Purpose Verification Framework](papers/llm-as-a-verifier.md) - *Introduces a general-purpose verification framework that computes continuous scores over scoring token logits to provide fine-grained feedback, improving verification scaling along score granularity, repeated evaluation, and criteria decomposition.*
 *   [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](papers/mirage-optimizing-training-policies.md) - *Revealing training-inference mismatch in LLM RL post-training and introducing Monotonic Inference Policy Improvement (MIPI) to stabilize training.*
 *   [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](papers/securing-the-ai-agent.md) - *An open-source red teaming framework (AI-Infra-Guard) for AI agents stratifying the attack surface across infrastructure, protocol, behavior, and model layers.*
