@@ -96,3 +96,5 @@ See also: [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppr
 See also: [PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](../papers/perceptiondlm.md)
 
 See also: [Tapered Language Models](../papers/tapered-language-models.md)
+
+See also: [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](../papers/is-one-layer-enough-rl-training.md)
