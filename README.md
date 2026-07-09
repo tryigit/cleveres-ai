@@ -46,6 +46,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+* [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](papers/is-one-layer-enough-rl-training.md) - *Training a single transformer layer can recover most of the gains achieved by full-parameter RL training.*
+* [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](papers/swe-review-agentic-code-review.md) - *A framework for closing the one-shot PR generation loop with an agentic code review system.*
 *   [MentalThink: Shaping Thoughts in Mental SVG World](papers/mentalthink.md) - *A visual-symbolic reasoning paradigm that equips Multimodal LLMs with an executable mechanism for "mental" visualization using SVG code.*
 *   [Vision as Unified Multimodal Generation](papers/sensenova-vision.md) - *SenseNova-Vision expresses heterogeneous visual tasks in native text and image generation spaces, removing task-specific architectures.*
 *   [LLM-as-a-Verifier: A General-Purpose Verification Framework](papers/llm-as-a-verifier.md) - *Introduces a general-purpose verification framework that computes continuous scores over scoring token logits to provide fine-grained feedback, improving verification scaling along score granularity, repeated evaluation, and criteria decomposition.*

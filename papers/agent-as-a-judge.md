@@ -63,3 +63,5 @@ See also: [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Mana
 See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](evods-self-evolving-data-science-agent.md)
 
 See also: [WebChallenger: A Reliable and Efficient Generalist Web Agent](webchallenger.md)
+
+See also: [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](swe-review-agentic-code-review.md)
