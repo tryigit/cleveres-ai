@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [Vidu S1: A Real-Time Interactive Video Generation Model](models/vidu-s1.md) - *A real-time interactive video generation model supporting voice control of digital characters and infinite-length generation without blurring.*
 *   [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](models/seed2-0.md) - *A model series targeting real-world complexity and long-tail knowledge by substantially improving instruction following and reliability on intricate, long-horizon tasks.*
 *   [Sumi: Open Uniform Diffusion Language Model from Scratch](models/sumi-uniform-diffusion.md) - *A fully open 7B uniform diffusion language model pretrained from scratch.*
 *   [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](papers/video-mla.md) - *Applies Multi-Head Latent Attention to video diffusion, reducing per-token KV memory by 92.7% at every cached layer.*
@@ -46,6 +47,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+* [Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models](papers/flash-bon.md) - *Generates a large pool of inexpensive draft candidates by combining three complementary acceleration knobs for efficient inference-time scaling in diffusion models.*
 * [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](papers/is-one-layer-enough-rl-training.md) - *Training a single transformer layer can recover most of the gains achieved by full-parameter RL training.*
 * [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](papers/swe-review-agentic-code-review.md) - *A framework for closing the one-shot PR generation loop with an agentic code review system.*
 *   [MentalThink: Shaping Thoughts in Mental SVG World](papers/mentalthink.md) - *A visual-symbolic reasoning paradigm that equips Multimodal LLMs with an executable mechanism for "mental" visualization using SVG code.*
