@@ -57,3 +57,5 @@ While you won't tune these gates yourself, understanding that next-generation mo
 
 ## Sources
 *   [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention (arXiv:2605.22791)](https://arxiv.org/abs/2605.22791)
+
+See also: [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](linear-attention-architectures-routing.md)

@@ -13,3 +13,5 @@ As LLM agents evolve, their memory requirements have shifted from simple retriev
 
 ## References
 * [Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)
+
+See also: [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](proactive-memory-agent.md)
