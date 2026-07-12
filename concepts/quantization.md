@@ -51,3 +51,5 @@ See also: [OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Fre
 See also: [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](../papers/subfit-submodule-replacement-compression.md)
 
 See also: [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](../papers/alphaq-calibration-free-moe-quantization.md)
+
+See also: [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](../papers/cinemobile-on-device-image-to-video-diffusion.md)
