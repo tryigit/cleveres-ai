@@ -75,3 +75,5 @@ See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Co
 See also: [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling](../papers/loopcoder-v2.md)
 
 See also: [Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models](../papers/flash-bon.md)
+
+See also: [Self-Guided Test-Time Training for Long-Context LLMs](../papers/self-guided-test-time-training.md)

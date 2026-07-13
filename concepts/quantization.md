@@ -53,3 +53,5 @@ See also: [From Layers to Submodules: Rethinking Granularity in Replacement-Base
 See also: [AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization](../papers/alphaq-calibration-free-moe-quantization.md)
 
 See also: [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](../papers/cinemobile-on-device-image-to-video-diffusion.md)
+
+See also: [KronQ: LLM Quantization via Kronecker-Factored Hessian](../papers/kronq-llm-quantization.md)
