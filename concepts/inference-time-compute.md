@@ -77,3 +77,5 @@ See also: [LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scal
 See also: [Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models](../papers/flash-bon.md)
 
 See also: [Self-Guided Test-Time Training for Long-Context LLMs](../papers/self-guided-test-time-training.md)
+
+See also: [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](../models/boogu-image-0-1.md)
