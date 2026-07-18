@@ -47,3 +47,5 @@ While you will still interact with tools via text prompts, the underlying switch
 *   [An introduction to Flow Matching (Cambridge MLG Blog)](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
 *   [Flow Matching for Generative Modeling (OpenReview)](https://openreview.net/forum?id=PqvMRDCJT9t)
 *   [From Noise to Structure: Building a Flow Matching Model from Scratch (AI Advances)](https://ai.gopubby.com/from-noise-to-structure-building-a-flow-matching-model-from-scratch-f1ca12b31602)
+
+See also: [Token Time Continuous Diffusion for Language Modeling](../papers/token-time-continuous-diffusion.md)
