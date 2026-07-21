@@ -58,3 +58,6 @@ See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learnin
 See also: [SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](../papers/searchswarm.md)
 
 See also: [Unlimited OCR Works](../papers/unlimited-ocr-works.md)
+
+
+See also: [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](../papers/swe-pruner-pro.md)
