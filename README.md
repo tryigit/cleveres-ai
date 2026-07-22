@@ -49,6 +49,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents](papers/agentdebugx.md) - *An open-source debugging framework providing failure observability, root-cause attribution, and recovery for LLM agents.*
 *   [Distilled Reinforcement Learning for LLM Post-training](papers/distilled-reinforcement-learning.md) - *A hybrid approach combining teacher supervision with RL to transfer new knowledge without the pitfalls of standard on-policy distillation.*
 *   [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](papers/swe-pruner-pro.md) - *An in-agent context pruning method that uses a small head on internal representations to discard irrelevant tool outputs, saving tokens and preserving task quality.*
 *   [Rethinking the Evaluation of Harness Evolution for Agents](papers/rethinking-harness-evolution.md) - *An evaluation of automatic harness evolution showing that when compared fairly against simple test-time scaling baselines under matched budgets, it fails to consistently outperform and struggles to generalize to held-out tasks.*
