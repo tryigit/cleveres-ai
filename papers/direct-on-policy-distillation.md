@@ -35,4 +35,4 @@ While this is a training methodology, it highlights a broader trend: future mode
 ## References
 * [Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394)
 
-See also: [Demystifying OPD: Length Inflation and Stabilization Strategies for LLMs](../papers/demystifying-opd-length-inflation.md)
+See also: [Demystifying OPD: Length Inflation and Stabilization Strategies for LLMs](../papers/demystifying-opd-length-inflation.md), [Multi-Turn On-Policy Distillation with Prefix Replay](multi-turn-on-policy-distillation-prefix-replay.md)
