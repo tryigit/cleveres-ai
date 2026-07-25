@@ -35,4 +35,4 @@ While you don't use OPD directly, this research explains why some open-source or
 ## Sources
 *   [Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models (arXiv)](https://arxiv.org/abs/2604.08527v1)
 
-See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](prism-pre-alignment.md)
+See also: [PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning](prism-pre-alignment.md), [Multi-Turn On-Policy Distillation with Prefix Replay](multi-turn-on-policy-distillation-prefix-replay.md)
