@@ -49,6 +49,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [OpenForgeRL: Train Harness-native Agents in Any Environment](papers/openforgerl.md) - *An open-source framework for training harness-based agents end-to-end in diverse environments by decoupling training and inference.*
+*   [Dataset Distillation by Influence Matching](papers/dataset-distillation-influence-matching.md) - *A dataset distillation method that aligns the final outcome of training using a fully differentiable, sample-level influence estimator.*
 *   [Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](papers/ripo-riemannian-isometric-policy-optimization.md) - *A method that corrects the geometric flaw in PPO-Clip by enforcing isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation.*
 *   [AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents](papers/agentdebugx.md) - *An open-source debugging framework providing failure observability, root-cause attribution, and recovery for LLM agents.*
 *   [Distilled Reinforcement Learning for LLM Post-training](papers/distilled-reinforcement-learning.md) - *A hybrid approach combining teacher supervision with RL to transfer new knowledge without the pitfalls of standard on-policy distillation.*
