@@ -17,4 +17,4 @@ In long-horizon tasks, action agents often suffer from "behavioral state decay,"
 ## References
 * [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716)
 
-See also: [Are We Ready For An Agent-Native Memory System?](agent-native-memory-system.md)
+See also: [Are We Ready For An Agent-Native Memory System?](agent-native-memory-system.md), [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](agentic-context-management.md)
