@@ -39,3 +39,5 @@ When designing complex multi-step prompts or custom GPTs, you can manually apply
 
 ## References
 *   [Self-Compacting Language Model Agents (arXiv:2606.23525)](https://arxiv.org/abs/2606.23525)
+
+See also: [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](agentic-context-management.md)
