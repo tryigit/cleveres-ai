@@ -72,3 +72,5 @@ See also: [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](..
 See also: [Variable-Width Transformers](../papers/variable-width-transformers.md)
 
 See also: [On the Limitations of Non-GPU AI Accelerators for Large-Model Inference](../papers/limitations-of-nongpu-ai-accelerators.md)
+
+See also: [Kimi K3: Open Frontier Intelligence](../models/kimi-k3.md)
