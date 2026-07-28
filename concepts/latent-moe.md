@@ -52,3 +52,5 @@ By reducing the dimensionality of the expert processing, LatentMoE shrinks the r
 ## References
 *   [LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts (arXiv:2601.18089)](https://arxiv.org/html/2601.18089v1)
 *   [Think Smart About Sparse Compute: LatentMoE (NVIDIA Research)](https://research.nvidia.com/labs/nemotron/LatentMoE/)
+
+See also: [Kimi K3: Open Frontier Intelligence](../models/kimi-k3.md)
