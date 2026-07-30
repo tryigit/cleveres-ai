@@ -25,3 +25,5 @@ See also:
 * [Are We Ready For An Agent-Native Memory System?](agent-native-memory-system.md)
 * [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](proactive-memory-agent.md)
 * [Self-Compacting Language Model Agents](self-compacting-language-model-agents.md)
+
+See also: [SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution](../papers/skillrise.md)
