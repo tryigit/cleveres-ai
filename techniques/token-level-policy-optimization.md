@@ -49,3 +49,5 @@ By applying selective intervention, TLPO effectively "corrects the steering whee
 
 ## References
 *   [TLPO: Token-Level Policy Optimization for Mitigating Language Confusion in Large Language Models (arXiv:2604.26553)](https://arxiv.org/abs/2604.26553)
+
+See also: [CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization](../papers/cort.md)
