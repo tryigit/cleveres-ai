@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](papers/b-opsd.md) - *A generalized on-policy self-distillation method that introduces a controllable regularization parameter β to trade off proximity to a reference policy against privileged teacher guidance, improving optimization stability.*
 *   [Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation](papers/explorative-modeling.md) - *A new paradigm that factors the training loop by exploring multiple candidate matches between generations and data, introducing a third pretraining axis for generative models.*
 *   [Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes](papers/revisiting-lossy-verification.md) - *An analysis of lossy verification schemes in speculative decoding, revealing that truncation-based methods can degrade quality compared to the sampling baseline due to distributional distortion.*
 *   [SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution](papers/skillrise.md) - *A unified RL framework for learning skills across tasks by alternating between task solving and curating an evolving skill document.*

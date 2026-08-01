@@ -53,3 +53,5 @@ While SDAR is a training methodology, understanding its mechanics explains why n
 See also: [MMSkills: Towards Multimodal Skills for General Visual Agents](mmskills-towards-multimodal-skills-for-general-visual-agents.md)
 
 See also: [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](skill-conditioned-gated-self-distillation.md)
+
+See also: [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](b-opsd.md)
