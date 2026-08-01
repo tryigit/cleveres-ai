@@ -51,3 +51,5 @@ Tested across five benchmarks and two model scales (including Qwen3-8B), SRPO co
 
 ## References
 *   [Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing (arXiv:2604.02288)](https://arxiv.org/abs/2604.02288v1)
+
+See also: [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](b-opsd.md)
