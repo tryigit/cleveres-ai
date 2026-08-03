@@ -34,4 +34,4 @@ This topic is highly technical and aimed at post-training engineers; it does not
 ## References
 * [CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization](https://arxiv.org/abs/2607.25659)
 
-See also: [Group Relative Policy Optimization (GRPO)](../concepts/group-relative-policy-optimization.md), [Token-Level Policy Optimization (TLPO)](../techniques/token-level-policy-optimization.md)
+See also: [Group Relative Policy Optimization (GRPO)](../concepts/group-relative-policy-optimization.md), [Token-Level Policy Optimization (TLPO)](../techniques/token-level-policy-optimization.md), [Enhancing Rubric-based RL via Self-Distillation](enhancing-rubric-based-rl-self-distillation.md)
