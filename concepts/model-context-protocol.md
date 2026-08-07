@@ -33,4 +33,4 @@ While the system is logically sound, it introduces interesting paradoxes and com
 2.  **The "Universal" Standard for Non-Standard Data:** Attempting to standardize the context for *everything*—from a weather report to a complex SQL database schema—is a paradoxical challenge. It requires abstractions that are simultaneously specific enough to be useful and generic enough to be universal.
 3.  **Shift from Intelligence to Retrieval:** Paradoxically, as models get smarter (higher reasoning), we rely *more* on external tools (dumb retrieval) for accuracy. The "brain" becomes a router, deferring to the "encyclopedia" (Context7) or the "calculator" (Python tool), challenging the notion that the model itself is the primary source of knowledge.
 
-See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../papers/evoflux-inference-time-evolution.md)
+See also: [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../papers/evoflux-inference-time-evolution.md), [The Bitter Lesson of Tool Calling](../papers/bitter-lesson-tool-calling.md)
