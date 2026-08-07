@@ -46,4 +46,4 @@ Instead of a continuous reward score, DPO requires "preference data". This means
 
 See also: [TLPO: Token-Level Policy Optimization](../techniques/token-level-policy-optimization.md)
 
-See also: [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](../papers/skill-rm.md)
+See also: [Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](../papers/skill-rm.md), [Learning When to Trust via Selective Context Preference Optimization](../papers/selective-context-preference-optimization.md)
