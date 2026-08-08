@@ -14,4 +14,4 @@ As LLM agents evolve, their memory requirements have shifted from simple retriev
 ## References
 * [Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)
 
-See also: [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](proactive-memory-agent.md), [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](agentic-context-management.md)
+See also: [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](proactive-memory-agent.md), [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](agentic-context-management.md), [Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay](activity-frames-deterministic-memory.md)
