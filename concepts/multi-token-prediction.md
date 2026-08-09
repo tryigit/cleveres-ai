@@ -50,4 +50,4 @@ During inference, MTP acts as a built-in **[Speculative Decoding](../techniques/
 *   [DeepSeek-V3 Technical Report (DeepSeek, 2024)](https://github.com/deepseek-ai/DeepSeek-V3)
 *   [NVIDIA Megatron Core: Multi-Token Prediction](https://docs.nvidia.com/megatron-core/developer-guide/latest/user-guide/features/multi_token_prediction.html)
 
-See also: [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](../papers/locateanything.md)
+See also: [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](../papers/locateanything.md), [KVAE: Family of Tokenizers for Multimodal Generative Models](../papers/kvae-family-tokenizers.md)

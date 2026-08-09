@@ -16,6 +16,7 @@ While you might not train these models yourself, the existence of language world
 
 ## See also
 * [Chain-of-Thought (CoT): Eliciting Reasoning in LLMs](../concepts/chain-of-thought.md)
+* [FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds](factorjepa-denseworld.md)
 
 ## References
 * [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
