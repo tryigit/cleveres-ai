@@ -65,3 +65,5 @@ See also: [EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learnin
 See also: [WebChallenger: A Reliable and Efficient Generalist Web Agent](webchallenger.md)
 
 See also: [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](swe-review-agentic-code-review.md)
+
+See also: [Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills](weights-vs-skills-robot-learning.md)
