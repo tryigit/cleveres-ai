@@ -38,3 +38,5 @@ You can transition from manually prompting an LLM to generate code snippets to d
 ## Source Links
 * [OpenAI Releases Symphony: An Open Source Agentic Framework](https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/)
 * [Symphony GitHub Repository](https://github.com/openai/symphony)
+
+See also: [Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution](../papers/ouroboros.md)
