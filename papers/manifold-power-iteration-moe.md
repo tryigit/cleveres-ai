@@ -45,3 +45,5 @@ The paper demonstrates that MoE models pretrained across various scales (up to 1
 
 ## References
 *   [Redesign Mixture-of-Experts Routers with Manifold Power Iteration](https://arxiv.org/abs/2606.12397)
+
+See also: [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](llmrouter.md)
