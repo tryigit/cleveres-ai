@@ -100,3 +100,5 @@ See also: [Tapered Language Models](../papers/tapered-language-models.md)
 See also: [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](../papers/is-one-layer-enough-rl-training.md)
 
 See also: [DeepLoop: Depth Scaling for Looped Transformers](../papers/deeploop-depth-scaling-looped-transformers.md)
+
+See also: [Maglev: Sliding Recurrent Memory](../papers/maglev-sliding-recurrent-memory.md)
