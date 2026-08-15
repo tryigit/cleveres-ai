@@ -79,3 +79,5 @@ See also: [Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Mod
 See also: [Self-Guided Test-Time Training for Long-Context LLMs](../papers/self-guided-test-time-training.md)
 
 See also: [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](../models/boogu-image-0-1.md)
+
+See also: [Thought-Level Beam Search for Reasoning](../papers/thought-level-beam-search.md)
