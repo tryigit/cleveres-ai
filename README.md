@@ -51,6 +51,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](papers/context-matched-distillation.md) - *A framework for interactive autoregressive video generation that aligns teacher supervision with the student's causal information set.*
+*   [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](papers/low-frequency-safety-risks.md) - *An analysis showing how low-frequency inaudible inputs can manipulate Large Audio-Language Models and introduces mitigation strategies.*
 *   [Thought-Level Beam Search for Reasoning](papers/thought-level-beam-search.md) - *Introduces Gambit, an inference algorithm executing thought-level beam search to dynamically allocate compute to promising reasoning traces, improving efficiency over parallel sampling.*
 *   [Maglev: Sliding Recurrent Memory](papers/maglev-sliding-recurrent-memory.md) - *A recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention and enables highly parallelizable training.*
 *   [Persistent Recursive Worlds Enable Autonomous Software Evolution](papers/evox-genesis-persistent-worlds.md) - *Introduces Genesis, a framework representing software as a persistent recursive world where finite-lived agents propose changes, shifting the organization of long-horizon development from persistent agents to persistent projects.*
