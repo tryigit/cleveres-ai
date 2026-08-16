@@ -102,3 +102,7 @@ See also: [Is One Layer Enough? Training A Single Transformer Layer Can Match Fu
 See also: [DeepLoop: Depth Scaling for Looped Transformers](../papers/deeploop-depth-scaling-looped-transformers.md)
 
 See also: [Maglev: Sliding Recurrent Memory](../papers/maglev-sliding-recurrent-memory.md)
+
+See also: [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](../papers/context-matched-distillation.md)
+
+See also: [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](../papers/low-frequency-safety-risks.md)
