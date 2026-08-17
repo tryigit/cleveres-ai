@@ -33,3 +33,5 @@ See also: [Self-Distilled Agentic Reinforcement Learning](self-distilled-agentic
 
 ## References
 * [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](https://arxiv.org/abs/2607.28582)
+
+See also: [Latent On-Policy Self-Distillation](latent-on-policy-self-distillation.md)

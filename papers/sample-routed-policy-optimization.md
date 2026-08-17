@@ -55,3 +55,5 @@ Tested across five benchmarks and two model scales (including Qwen3-8B), SRPO co
 See also: [LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers](llmrouter.md)
 
 See also: [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](b-opsd.md)
+
+See also: [Latent On-Policy Self-Distillation](latent-on-policy-self-distillation.md)
