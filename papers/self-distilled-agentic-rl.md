@@ -55,3 +55,5 @@ See also: [MMSkills: Towards Multimodal Skills for General Visual Agents](mmskil
 See also: [Skill-Conditioned Gated Self-Distillation for LLM Reasoning](skill-conditioned-gated-self-distillation.md)
 
 See also: [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](b-opsd.md)
+
+See also: [Latent On-Policy Self-Distillation](latent-on-policy-self-distillation.md)

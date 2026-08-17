@@ -51,6 +51,8 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Second Thought: Reasoning in Parallel as LLM Agents Act and Observe](papers/second-thought.md) - *A training-free inference framework that decodes parallel reasoning branches during the idle execution windows of ReAct agents.*
+*   [Latent On-Policy Self-Distillation](papers/latent-on-policy-self-distillation.md) - *A framework that makes the teacher's privileged context learnable end-to-end by representing it as continuous latent tokens rather than hand-crafted artifacts.*
 *   [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](papers/context-matched-distillation.md) - *A framework for interactive autoregressive video generation that aligns teacher supervision with the student's causal information set.*
 *   [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](papers/low-frequency-safety-risks.md) - *An analysis showing how low-frequency inaudible inputs can manipulate Large Audio-Language Models and introduces mitigation strategies.*
 *   [Thought-Level Beam Search for Reasoning](papers/thought-level-beam-search.md) - *Introduces Gambit, an inference algorithm executing thought-level beam search to dynamically allocate compute to promising reasoning traces, improving efficiency over parallel sampling.*
