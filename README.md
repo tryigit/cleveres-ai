@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](papers/omniscientist.md) - *An end-to-end, omni-modal AI scientist that conducts multidisciplinary research directly from heterogeneous raw evidence via a perception layer and specialized agents.*
 *   [Agent Lightning v1.0: Towards Harnessed Agentic RL](papers/agent-lightning.md) - *A lightweight framework for harnessed agentic RL that addresses challenges in retokenization, sample merging, and backend scheduling by delegating the environment interaction loop to the deploy-time harness.*
 *   [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](papers/harnesseval-w.md) - *An agentified evaluation pipeline that interprets context, decomposes evaluation questions, and spawns specialized sub-agents to provide a verifiable reasoning chain for world model rollouts.*
 *   [Second Thought: Reasoning in Parallel as LLM Agents Act and Observe](papers/second-thought.md) - *A training-free inference framework that decodes parallel reasoning branches during the idle execution windows of ReAct agents.*
