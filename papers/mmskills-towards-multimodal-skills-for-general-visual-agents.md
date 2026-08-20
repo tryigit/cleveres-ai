@@ -38,4 +38,4 @@ This approach suggests that external multimodal procedural knowledge effectively
 ## References
 *   [Paper page - MMSkills: Towards Multimodal Skills for General Visual Agents](https://huggingface.co/papers/2605.13527)
 
-See also: [OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration](omniverifier-m1.md)
+See also: [OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration](omniverifier-m1.md), [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](omniscientist.md)

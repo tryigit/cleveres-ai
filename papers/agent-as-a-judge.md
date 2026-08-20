@@ -67,3 +67,5 @@ See also: [WebChallenger: A Reliable and Efficient Generalist Web Agent](webchal
 See also: [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](swe-review-agentic-code-review.md)
 
 See also: [Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills](weights-vs-skills-robot-learning.md)
+
+See also: [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](omniscientist.md)
