@@ -53,3 +53,5 @@ While you won't write code for FlashAttention, you benefit from it directly. It 
 See also: [Flux Attention](../papers/flux-attention.md)
 
 See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)
+
+See also: [FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](../papers/flashprefill-v2.md)
