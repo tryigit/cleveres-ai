@@ -81,3 +81,5 @@ See also: [Self-Guided Test-Time Training for Long-Context LLMs](../papers/self-
 See also: [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](../models/boogu-image-0-1.md)
 
 See also: [Thought-Level Beam Search for Reasoning](../papers/thought-level-beam-search.md)
+
+See also: [Chain-of-Experience for Continual LLM Improvement](../papers/chain-of-experience-for-continual-llm-improvement.md)
