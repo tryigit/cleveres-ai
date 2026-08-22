@@ -35,3 +35,5 @@ This specific advancement is foundational and structural to how the model genera
 
 ## Sources
 *   [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502) (Hugging Face Daily Papers)
+
+See also: [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](embedders-dilemma-llms-vs-embedding-models.md)

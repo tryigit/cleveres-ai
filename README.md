@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](papers/embedders-dilemma-llms-vs-embedding-models.md) - *A cost-aware comparison showing that while LLMs excel at reasoning-heavy retrieval, traditional embedding models provide comparable aggregate performance across tasks for significantly lower cost and higher speed.*
 *   [Chain-of-Experience for Continual LLM Improvement](papers/chain-of-experience-for-continual-llm-improvement.md) - *A framework that forms a continual improvement loop beyond zero-shot inference by accumulating experiential traces through iterative interactions with self or environmental feedback.*
 *   [FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](papers/flashprefill-v2.md) - *Evolves block-sparse prefill attention toward practical long-context serving with mean correction, PackGQA memory access, and native support for continuous batching and FP8.*
 *   [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](papers/omniscientist.md) - *An end-to-end, omni-modal AI scientist that conducts multidisciplinary research directly from heterogeneous raw evidence via a perception layer and specialized agents.*

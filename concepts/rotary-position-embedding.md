@@ -55,3 +55,5 @@ This means the model inherently understands "Token B is 3 spots away from Token 
 See also: [Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](../papers/incantation-natural-language-action.md)
 
 See also: [Positional versus Symbolic Attention Heads](../papers/positional-vs-symbolic-attention.md)
+
+See also: [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](../papers/embedders-dilemma-llms-vs-embedding-models.md)
