@@ -39,3 +39,5 @@ This topic does not apply to you. QonQrete is a local IDE-integrated multi-agent
 ## References
 *   [QonQrete GitHub Repository](https://github.com/illdynamics/qonqrete)
 *   [QonQrete Official Documentation](https://qonqrete.sh/)
+
+See also: [Repo0: Design-Driven Zero-to-All Code Generation](../papers/repo0-code-generation.md)
