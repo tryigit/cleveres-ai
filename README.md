@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](papers/moe-compute-efficient-transfer.md) - *A framework for predicting optimal learning rates for massive MoE models by transferring hyperparameter configurations from small proxy models across both width and token budgets.*
 *   [Repo0: Design-Driven Zero-to-All Code Generation](papers/repo0-code-generation.md) - *A continuous structural evolution framework using a Dual-DAG architectural state to guide LLM agents in generating entire software repositories from natural language.*
 *   [Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization](papers/inject-align-recover.md) - *A three-stage post-training framework that converts bounded document collections into parametric knowledge, offering an alternative to inference-time RAG.*
 *   [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](papers/embedders-dilemma-llms-vs-embedding-models.md) - *A cost-aware comparison showing that while LLMs excel at reasoning-heavy retrieval, traditional embedding models provide comparable aggregate performance across tasks for significantly lower cost and higher speed.*
