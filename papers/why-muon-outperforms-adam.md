@@ -29,4 +29,4 @@ This topic focuses purely on the underlying mathematical optimization during the
 **Sources:**
 * Why Muon Outperforms Adam: A Curvature Perspective (arXiv:2606.04662)
 
-See also: [Group Relative Policy Optimization (GRPO)](../concepts/group-relative-policy-optimization.md), [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](linear-attention-architectures-routing.md)
+See also: [Group Relative Policy Optimization (GRPO)](../concepts/group-relative-policy-optimization.md), [Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](linear-attention-architectures-routing.md), [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](moe-compute-efficient-transfer.md)

@@ -63,4 +63,4 @@ While MLA runs under the hood, it changes how you can interact with the model.
 See also: [TurboQuant](turboquant.md)
 See also: [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](../papers/video-mla.md)
 
-See also: [InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](../papers/internvideo3-agentify-foundation-models.md)
+See also: [InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](../papers/internvideo3-agentify-foundation-models.md), [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](../papers/moe-compute-efficient-transfer.md)
