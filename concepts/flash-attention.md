@@ -55,3 +55,5 @@ See also: [Flux Attention](../papers/flux-attention.md)
 See also: [Long Context Pre-Training with Lighthouse Attention](../papers/lighthouse-attention.md)
 
 See also: [FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](../papers/flashprefill-v2.md)
+
+See also: [TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration](../papers/tilemix-mixed-precision-attention.md)

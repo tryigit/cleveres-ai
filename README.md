@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration](papers/tilemix-mixed-precision-attention.md) - *A tile-centric precision-routing kernel for dense self-attention that dynamically chooses between FP16 and INT8 computation at the score-tile level, improving long-context prefill throughput without sacrificing quality.*
 *   [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](papers/moe-compute-efficient-transfer.md) - *A framework for predicting optimal learning rates for massive MoE models by transferring hyperparameter configurations from small proxy models across both width and token budgets.*
 *   [Repo0: Design-Driven Zero-to-All Code Generation](papers/repo0-code-generation.md) - *A continuous structural evolution framework using a Dual-DAG architectural state to guide LLM agents in generating entire software repositories from natural language.*
 *   [Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization](papers/inject-align-recover.md) - *A three-stage post-training framework that converts bounded document collections into parametric knowledge, offering an alternative to inference-time RAG.*
