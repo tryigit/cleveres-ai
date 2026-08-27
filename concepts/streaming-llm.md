@@ -52,3 +52,5 @@ While this is primarily an infrastructure-level optimization, the concept of Att
 ## References
 *   [Efficient Streaming Language Models with Attention Sinks (Xiao et al., 2023)](https://arxiv.org/abs/2309.17453)
 *   [StreamingLLM GitHub Repository](https://github.com/mit-han-lab/streaming-llm)
+
+See also: [VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](../papers/voicemem-streaming-dual-brain-memory.md)
