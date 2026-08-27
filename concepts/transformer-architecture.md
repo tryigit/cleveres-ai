@@ -105,4 +105,4 @@ See also: [Maglev: Sliding Recurrent Memory](../papers/maglev-sliding-recurrent-
 
 See also: [Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](../papers/context-matched-distillation.md)
 
-See also: [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](../papers/low-frequency-safety-risks.md)
+See also: [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](../papers/low-frequency-safety-risks.md), [Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers](../papers/gated-recurrent-transformers.md)
