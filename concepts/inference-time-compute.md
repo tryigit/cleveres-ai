@@ -82,4 +82,4 @@ See also: [Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understandin
 
 See also: [Thought-Level Beam Search for Reasoning](../papers/thought-level-beam-search.md)
 
-See also: [Chain-of-Experience for Continual LLM Improvement](../papers/chain-of-experience-for-continual-llm-improvement.md), [Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers](../papers/gated-recurrent-transformers.md)
+See also: [Chain-of-Experience for Continual LLM Improvement](../papers/chain-of-experience-for-continual-llm-improvement.md), [Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers](../papers/gated-recurrent-transformers.md), [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](../papers/criticl.md)
