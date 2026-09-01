@@ -64,4 +64,4 @@ If you use tools like Stable Diffusion or local LLMs (via Ollama/LM Studio):
 
 See also: [DoRA: Weight-Decomposed Low-Rank Adaptation](dora-weight-decomposed-low-rank-adaptation.md)
 
-See also: [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](../papers/code2lora-hypernetwork-generated-adapters.md)
+See also: [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](../papers/code2lora-hypernetwork-generated-adapters.md), [Normalized Low-Rank Adaptation (NoRA)](../papers/normalized-low-rank-adaptation.md)
