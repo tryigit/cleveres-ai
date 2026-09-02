@@ -73,4 +73,4 @@ See also: [Variable-Width Transformers](../papers/variable-width-transformers.md
 
 See also: [On the Limitations of Non-GPU AI Accelerators for Large-Model Inference](../papers/limitations-of-nongpu-ai-accelerators.md)
 
-See also: [Kimi K3: Open Frontier Intelligence](../models/kimi-k3.md), [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](../papers/moe-compute-efficient-transfer.md)
+See also: [Kimi K3: Open Frontier Intelligence](../models/kimi-k3.md), [Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts](../papers/moe-compute-efficient-transfer.md), [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](../papers/smelt-looped-transformers.md)

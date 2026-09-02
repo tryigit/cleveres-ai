@@ -51,6 +51,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](papers/smelt-looped-transformers.md) - *A sparse MoE Transformer architecture that loops middle layers twice, saving up to 18% of training FLOPs and boosting downstream performance while strictly matching compute budgets.*
 *   [Normalized Low-Rank Adaptation (NoRA)](papers/normalized-low-rank-adaptation.md) - *A technique that normalizes the down-projection matrices during training or at initialization in LoRA, improving standard LoRA convergence and performance without repeated normalization throughout training.*
 *   [Dynamic Important Example Mining for Reinforcement Finetuning (DIEM)](papers/dynamic-important-example-mining.md) - *A framework for reinforcement finetuning that adaptively utilizes data throughout training by approximating sample marginal contributions and applying constrained batch reweighting.*
 *   [J-Zero: Unified Challenger-Solver-Judge Co-Evolution from Zero Data](papers/j-zero-co-evolution.md) - *A framework for self-evolving language models in unverifiable domains through adversarial co-adaptation of Challenger, Solver, and Judge models, eliminating the need for human supervision.*
