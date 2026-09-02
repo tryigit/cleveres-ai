@@ -27,3 +27,5 @@ When applied to GPT-style language models, DeepLoop acts neutrally when operatin
 
 ## References
 * [DeepLoop: Depth Scaling for Looped Transformers](https://arxiv.org/abs/2607.13491)
+
+See also: [SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](smelt-looped-transformers.md)
