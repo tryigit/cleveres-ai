@@ -30,3 +30,4 @@ You can now upload entire books, large code repositories, or complex project doc
 ## Sources
 *   [Introducing DeepSeek-V3.2-Exp (DeepSeek API Docs)](https://api-docs.deepseek.com/news/news250929)
 *   [DeepSeek Sparse Attention Mechanism (DSA) - Emergent Mind](https://www.emergentmind.com/topics/deepseek-sparse-attention-dsa)
+*   [CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling (Paper)](../papers/crisp-sparse-prefilling.md)

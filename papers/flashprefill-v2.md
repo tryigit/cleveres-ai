@@ -23,3 +23,5 @@ While this is a backend infrastructural improvement, its impact on the end user 
 
 ## References
 * [FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](https://arxiv.org/abs/2608.19758)
+## See also:
+*   [CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling](crisp-sparse-prefilling.md)
