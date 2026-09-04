@@ -42,4 +42,4 @@ While you won't implement this directly in a prompt, the adoption of VideoMLA me
 ---
 **Sources:**
 *   [arXiv:2605.30351 - VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351)
-*   [Project Page](https://videomla.github.io/)
+*   [Project Page](https://videomla.github.io/), [Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](latentstream-progressive-memory.md)

@@ -10,4 +10,4 @@ The demand for image-to-video creation on mobile devices is growing, especially 
 *   👨‍💻 **The Everyday Prompt Engineers:** This technique is bringing high-quality cinematic video generation (like dolly zoom and bullet time) natively to mobile devices, meaning future creator apps will be able to perform these generations locally without cloud latency.
 
 ## References
-* [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://huggingface.co/papers/2607.03803)
+* [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://huggingface.co/papers/2607.03803), [Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States](puffin-world-unified-multimodal.md)

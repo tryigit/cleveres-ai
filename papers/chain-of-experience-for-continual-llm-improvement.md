@@ -17,4 +17,4 @@ CoE offers a compelling efficiency argument: it achieves higher accuracy per tok
 When using powerful models (like GPT-5 or Claude-4.5 Sonnet) via web interfaces, you can manually simulate the CoE loop. Instead of just asking for a solution and accepting it or starting over entirely, prompt the model to review its previous attempt, identify errors (or provide it the error message from your code runner), and generate a revised attempt based explicitly on that "experience." This structured iteration is fundamentally more effective than one-shot prompting for hard tasks.
 
 ## References
-* [Chain-of-Experience for Continual LLM Improvement](https://arxiv.org/abs/2608.18027)
+* [Chain-of-Experience for Continual LLM Improvement](https://arxiv.org/abs/2608.18027), [Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](bcit-conditional-experience-transfer.md)
