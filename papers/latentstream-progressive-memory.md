@@ -13,10 +13,10 @@ This allows LatentStream to achieve state-of-the-art results on online and offli
 ## Real-World Application & Who Should Care
 
 (Rocket) THE PERFORMANCE MONSTERS (SOTA Seekers):
-For researchers pushing the limits of infinite-context or streaming video understanding, LatentStream provides a highly optimized architecture for maintaining deep temporal context without blowing up memory budgets. By internalizing retrieved context into a fixed-length latent space rather than just appending raw frames, models can reason over exponentially longer video streams with higher accuracy.
+For researchers pushing the limits of infinite-context or streaming video understanding, LatentStream provides a highly optimized architecture for maintaining deep temporal context without blowing up memory budgets. By internalizing retrieved context into a fixed-length latent space rather than just appending raw frames, models can reason over much longer video streams while preserving a fixed-length latent memory.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-Processing long videos frame-by-frame is incredibly token-heavy and expensive. LatentStream's retrieve-and-internalize mechanism maintains a fixed memory budget while still capturing long-term temporal context. Implementing this architecture reduces the KV cache burden for streaming video APIs, directly lowering hosting costs and drastically improving response latency for continuous video analysis tasks.
+Processing long videos frame-by-frame is incredibly token-heavy and expensive. LatentStream's retrieve-and-internalize mechanism maintains a fixed memory budget while still capturing long-term temporal context. In the reported Qwen2.5-VL-7B evaluation, it reduced peak memory and per-token latency, but the latent memory evolution performed before answer generation increased time to first token from 7.63 to 8.41 seconds.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
 While you can't manually implement latent memory evolution, this breakthrough means that future AI assistants capable of "watching" your screen or analyzing a 3-hour movie won't suddenly "forget" what happened in the first 10 minutes. You will experience much more coherent and context-aware responses when interacting with continuous, long-form video content.

@@ -11,7 +11,7 @@ It jointly models three native world states: physics (gravity field and latitude
 Puffin-World introduces a new paradigm for closed-loop applications requiring synergy across multiple tasks, such as mimicry and self-calibrated world exploration. By removing the dependency on external 3D modules and combining appearance and geometry generation, this architecture opens new pathways for building highly realistic, physically grounded virtual environments and embodied AI agents.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-For developers building 3D generation or world-simulation pipelines, unifying physics, geometry, and appearance into a single model can significantly reduce architectural complexity and inference latency. Instead of chaining together separate specialized models for depth estimation, physics simulation, and video generation, Puffin-World handles these natively in one pass.
+For developers building 3D generation or world-simulation pipelines, unifying physics, geometry, and appearance into a single model can reduce architectural complexity. Instead of chaining together separate specialized models for depth estimation, physics simulation, and video generation, Puffin-World handles these capabilities within one unified framework.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
 When models leveraging Puffin-World architectures become available in consumer interfaces, you can expect a massive leap in the quality and physical consistency of generated 3D scenes and videos. Prompting for complex camera motions or physically interactive environments will yield much more stable and realistic results without the bizarre spatial morphing seen in earlier generation models.
