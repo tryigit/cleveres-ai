@@ -21,10 +21,10 @@ DRACO tackles this by reshaping how rubric advantages are calculated within the 
 
 1. **Dynamic Rubric Generation:** Rather than using a static set of rules, DRACO dynamically generates rubrics tailored to track the specific capabilities the policy is currently struggling with or developing during training.
 2. **Closed-Form Redistribution:** Once a trajectory finishes, the rubric is scored. DRACO then redistributes this final score across the sequence of steps, attributing credit to the specific actions responsible for fulfilling (or failing) the rubric's criteria.
-3. **No Trained Attribution Module:** Crucially, this redistribution is done in a closed-form mathematical manner. It does not require training an additional neural network (like a critic or an attribution module) to guess which step deserves credit, saving compute and reducing complexity.
+3. **No Trained Attribution Module:** Crucially, this redistribution is done in a closed-form mathematical manner. By avoiding an additional attribution network (such as a critic) to estimate which step deserves credit, it reduces model-training complexity without necessarily reducing end-to-end compute.
 
 **Performance Gains:**
-- On **AppWorld**, DRACO achieved a 15.9 point gain over the base model, and a 5.3 point gain over a standard GRPO setup trained with sparse ground-truth rewards (notably without using verifiers itself).
+- On **AppWorld**, DRACO achieved a 15.9-point gain over the base model, and a 5.3-point gain over a standard GRPO setup trained with sparse ground-truth rewards (notably without using verifiers itself).
 - On the out-of-domain **Tau-Bench**, it gained 5.3 points over the base model, beating both ground-truth-reward training and other rubric-based methods, even without relying on a frontier judge.
 
 ## Real-World Application & Who Should Care
@@ -33,7 +33,7 @@ DRACO tackles this by reshaping how rubric advantages are calculated within the 
 This is a breakthrough for researchers training highly capable, long-horizon autonomous agents (e.g., SWE-agents, OS-control agents). By solving the temporal credit assignment problem without adding heavy critic networks, you can train agents that execute complex, multi-step plans much more reliably in domains lacking clear programmatic verifiers.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-Because DRACO uses a closed-form redistribution mechanism instead of a trained attribution module, it reduces the computational overhead required during the RL training phase. While this primarily impacts training rather than inference, it lowers the barrier and cost to fine-tune specialized agents for enterprise workflows.
+Because DRACO uses a closed-form redistribution mechanism instead of a trained attribution module, it avoids an additional attribution network and reduces model-training complexity. This primarily affects the training setup rather than inference and does not necessarily reduce end-to-end compute.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
 While DRACO is an underlying RL training methodology, its success highlights the importance of breaking down complex tasks. When prompting agents, explicitly defining intermediate rubrics or sub-goals in your prompt can help guide the model's trajectory, mimicking the step-by-step credit assignment this paper automates.
