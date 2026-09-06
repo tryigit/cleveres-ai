@@ -21,3 +21,4 @@ While you might not train these models yourself, the existence of language world
 
 ## References
 * [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
+* [VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement](veriphy-agentic-physical-reasoning.md)
