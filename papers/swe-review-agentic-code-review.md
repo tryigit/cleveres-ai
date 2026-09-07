@@ -9,7 +9,7 @@ Coding agents increasingly generate pull requests (PRs) for real-world software 
 * 💰 **The Cost & Latency Optimizers (API Developers):** By improving decision accuracy and resolve rate, agentic code review can reduce the number of failed PRs and the overall cost of issue resolution, leading to a more efficient and automated software development process.
 * 💻 **The Everyday Prompt Engineers:** For end-users of AI coding assistants, this means more reliable and robust code generation. The AI not only writes code but also systematically reviews and revises it, leading to higher quality outputs with less manual intervention required.
 
-See also: [Agent-as-a-Judge: Evaluate Agents with Agents](agent-as-a-judge.md)
+See also: [Agent-as-a-Judge: Evaluate Agents with Agents](agent-as-a-judge.md), [When Models Edit Too Much: On the Fidelity of Minimal Code Edits](edit-fidelity-in-code-repair.md)
 
 ## References
 * [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](https://arxiv.org/abs/2607.06065)
