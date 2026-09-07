@@ -38,5 +38,7 @@ By strategically targeting redundancy wherever it exists rather than forcing con
 
 ---
 
+See also: [Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference](layer-dropout-optimization.md)
+
 ## References
 * [From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression](https://arxiv.org/abs/2606.02559)
