@@ -9,7 +9,7 @@ While large language models (LLMs) are highly capable of fixing code bugs, they 
 For those fine-tuning specialized coding agents, prioritizing edit fidelity alongside correctness via RL optimization yields models that produce much cleaner, minimal patches. This improves automated workflows where minimizing diff sizes is critical for stability.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-By employing system prompts or post-training strategies focused on preservation and minimal editing, developers can reduce the length of generated outputs for code repair tasks, leading to faster inference times and lower API costs per issue resolved.
+By employing system prompts or post-training strategies focused on preservation and minimal editing, developers may reduce the length of generated outputs for code repair tasks, potentially yielding faster inference times and lower API costs per issue resolved.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
 When asking an LLM to fix a bug, explicitly instruct it to "make the minimal necessary changes and preserve the original structure" to prevent the model from completely refactoring your function and introducing unwanted complexity.

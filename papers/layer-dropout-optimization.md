@@ -9,7 +9,7 @@ Layer dropout (stochastic depth) has largely fallen out of favor in modern large
 For organizations pre-training foundational LLMs, re-integrating layer dropout into the training pipeline provides a significant compute advantage. Saving 25% of training FLOPs allows you to train longer on more tokens or scale up model size within the same fixed budget, achieving a better compute-optimal frontier.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-Models pre-trained with layer dropout natively support dynamic inference techniques like early exit and layer skipping without requiring expensive post-training distillation or retraining. This allows developers to serve the same model at varying latency tiers or drastically speed up inference (up to 1.5x) for simpler queries.
+Models pre-trained with layer dropout natively support zero-shot dynamic inference techniques like early exit and layer skipping without requiring distillation or retraining. Post-training early-exit adapters, by contrast, require self-distillation or training. This allows developers to serve the same model at varying latency tiers or drastically speed up inference (up to 1.5x) for simpler queries.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
 Not Immediately Applicable. This is a foundational training and inference optimization technique. However, it means that future models you interact with may be trained more efficiently and respond much faster, particularly for straightforward queries that leverage early exiting.
