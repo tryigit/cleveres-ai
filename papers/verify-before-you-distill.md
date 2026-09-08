@@ -21,13 +21,13 @@ By utilizing otherwise-idle teacher capacity for these reliability checks during
 
 ## Real-World Application & Who Should Care
 
-(Rocket) THE PERFORMANCE MONSTERS (SOTA Seekers):
-For researchers training custom models (e.g., 4B to 35B parameters), TGOPD provides a robust framework to combine the dense, token-level efficiency of distillation with the safety of reinforcement learning (GRPO). It ensures that your student model doesn't overfit to the teacher's hallucinations or errors on difficult prompts.
+## 🚀 THE PERFORMANCE MONSTERS (SOTA Seekers)
+For researchers training custom models (e.g., 4B to 35B parameters), TGOPD provides a robust framework to combine the dense, token-level efficiency of distillation with a verifier-grounded GRPO fallback. It ensures that your student model doesn't overfit to the teacher's hallucinations or errors on difficult prompts.
 
-(Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-If you run asynchronous distillation pipelines, teacher GPU nodes often sit idle waiting for student rollouts. TGOPD uses this idle time to generate verification probes. The paper demonstrates an increase in teacher-node GPU utilization from 9.8% to 78.9%. This directly translates to faster training runs and significantly reduced hardware rental costs.
+## 💰 THE COST & LATENCY OPTIMIZERS (API Developers)
+If you run asynchronous distillation pipelines, teacher GPU nodes often sit idle waiting for student rollouts. TGOPD uses this idle time to generate verification probes. In a single reported run, the paper shows teacher-node GPU utilization increasing from 9.8% to 78.9%, which can reduce idle capacity and may lower costs.
 
-(Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
+## 🧑‍💻 THE EVERYDAY PROMPT ENGINEERS
 This training technique operates under the hood during model creation and does not directly change how you write prompts in web interfaces today. However, you will notice future open-weight models becoming much better at complex reasoning tasks without inheriting the exact flaws of the larger models they were distilled from.
 
 ## Source
