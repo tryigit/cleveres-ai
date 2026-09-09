@@ -63,3 +63,5 @@ See also: [Unlimited OCR Works](../papers/unlimited-ocr-works.md)
 See also: [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](../papers/swe-pruner-pro.md)
 
 See also: [Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents](../papers/not-worth-another-token.md)
+
+See also: [BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference](../papers/beaconkv.md)
