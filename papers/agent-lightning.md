@@ -16,3 +16,5 @@ While this is primarily an infrastructure breakthrough for model trainers, promp
 
 ## References
 * [Agent Lightning v1.0: Towards Harnessed Agentic RL](https://arxiv.org/abs/2608.17528)
+
+See also: [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](co-evolving-harnesses-and-models.md)

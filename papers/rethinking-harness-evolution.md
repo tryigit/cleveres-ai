@@ -24,3 +24,5 @@ This specific evaluation protocol is targeted at developers building automated a
 
 ## References
 * [Rethinking the Evaluation of Harness Evolution for Agents](https://arxiv.org/abs/2607.12227)
+
+See also: [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](co-evolving-harnesses-and-models.md)

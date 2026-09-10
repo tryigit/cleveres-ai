@@ -19,3 +19,5 @@ This decoupling of training and inference enables researchers to train agents di
 
 ## References
 * [OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)
+
+See also: [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](co-evolving-harnesses-and-models.md)
