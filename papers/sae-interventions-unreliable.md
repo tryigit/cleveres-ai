@@ -29,3 +29,5 @@ See also how this impacts the broader [Transformer Architecture: The Engine of M
 
 ## References
 * [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior (arXiv)](https://arxiv.org/abs/2606.18322)
+
+See also: [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](saescientist-bench.md)

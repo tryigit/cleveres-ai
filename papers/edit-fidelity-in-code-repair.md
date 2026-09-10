@@ -16,5 +16,7 @@ When asking an LLM to fix a bug, explicitly instruct it to "make the minimal nec
 
 See also: [SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review](swe-review-agentic-code-review.md)
 
+See also: [Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models](diffs-vs-whole-files.md)
+
 ## References
 * [When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061)
