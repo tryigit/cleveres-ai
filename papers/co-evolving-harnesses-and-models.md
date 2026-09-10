@@ -6,7 +6,7 @@ Agent harnesses significantly impact task success, enabling smaller models to pe
 ## Real-World Application & Who Should Care
 
 ### (Rocket) THE PERFORMANCE MONSTERS (SOTA Seekers):
-**Why you care:** If you are trying to squeeze maximum capability out of smaller, specialized models via automated scaffolding and fine-tuning, this paper reveals a critical pitfall: standard behavioral cloning from a stronger expert will destroy the model's alignment with its evolved harness. You must use on-policy correction instead.
+**Why you care:** If you are trying to squeeze maximum capability out of smaller, specialized models via automated scaffolding and fine-tuning, this paper identifies a pitfall in its evaluated setting: when weaker models imitate complete expert trajectories under the evolved harness on the reported enterprise tasks, behavioral cloning can degrade model-harness fit. In that setting, the evaluated on-policy correction pipeline performed better; the paper does not establish that this will hold for other models, harnesses, or tasks.
 
 ### (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
 **Why you care:** Combining harness evolution with targeted on-policy correction allows you to deploy much smaller, cheaper models on complex enterprise tasks that typically require expensive frontier models, significantly reducing inference costs without losing capability.
