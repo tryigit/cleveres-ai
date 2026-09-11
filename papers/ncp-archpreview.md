@@ -21,10 +21,10 @@ This approach makes the pretraining objective more challenging but significantly
 By predicting higher-level abstractions (concepts) rather than just raw tokens, researchers can build models that maintain long-horizon coherence much better. If you are building models that require structured planning, the NCP objective provides a clear path to forcing the model to "think ahead" before committing to specific tokens.
 
 (Money) THE COST & LATENCY OPTIMIZERS (API Developers):
-The sample efficiency gains are massive. Reaching the same loss using only 51.3% of the pretraining tokens means training costs are effectively halved. Additionally, the lightweight concept representations can be injected into speculative decoding drafters (like DFlash2), improving the mean accepted length by over 4% with minimal overhead, directly speeding up serving.
+The reported sample-efficiency result is that NCP-ArchPreview reached the reference pretraining loss using 51.3% of the baseline's pretraining tokens; this token-budget comparison does not measure total training cost. Additionally, the lightweight concept representations can be injected into speculative decoding drafters (like DFlash2), improving the mean accepted length by over 4% with minimal overhead; the report does not establish a direct end-to-end serving speedup or latency reduction.
 
 (Person at Computer) THE EVERYDAY PROMPT ENGINEERS:
-While the underlying architecture changes are invisible to the end user, models trained with this dual objective (NCP + NTP) demonstrate significantly stronger reasoning capabilities (as shown by the GSM8K jump). You can expect these models to follow complex, multi-step instructions more reliably without wandering off-topic.
+In the reported evaluation, NCP-ArchPreview improved GSM8K by 5.99 percentage points over the OLMo-3-7B baseline. NCP-ArchPreview is a pretrained base model without conversational alignment, so its instruction-following reliability has not been established.
 
 ## References & See Also
 * [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](switch-latent-reasoning.md)
