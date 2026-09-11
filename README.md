@@ -2,6 +2,7 @@
 A smart knowledge base about artificial intelligence.
 
 ## Frontier Models
+*   [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](models/nemotron-imo-gold.md) - *An open-model test-time-compute pipeline based on Nemotron 3 Ultra that achieved gold-medal performance at IMO 2026 using purely natural language reasoning without formal provers.*
 *   [Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model](models/mage-vl.md) - *An efficient codec-native streaming foundation model for real-time multimodal understanding and interaction that selectively encodes dynamic regions using motion vectors.*
 *   [Kimi K3: Open Frontier Intelligence](models/kimi-k3.md) - *A 2.8T parameter Mixture-of-Experts model with native vision and a 1-million-token context, achieving frontier-level performance through Stable LatentMoE and Kimi Delta Attention.*
 *   [Qwen-Music Technical Report](models/qwen-music.md) - *A powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing using a melody-token-based chain-of-thought.*
@@ -51,6 +52,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](papers/ncp-archpreview.md) - *A latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction by jointly predicting multi-token discrete concepts, achieving strong downstream performance gains.*
 *   [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](papers/saescientist-bench.md) - *A benchmark to evaluate if AI agents can act as scientists using Sparse Autoencoders (SAEs) for mechanistic discovery.*
 *   [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](papers/co-evolving-harnesses-and-models.md) - *Proposes an on-policy expert-correction pipeline to combine harness evolution and model adaptation gains, preventing imitation learning from disrupting model-harness fit.*
 *   [Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models](papers/diffs-vs-whole-files.md) - *An empirical study finding that direct whole-file code generation outperforms iterative diff-based generation, except for highly localized tasks.*
