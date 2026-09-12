@@ -37,3 +37,4 @@ This is a foundational post-training methodology for creating smarter agents. It
 See also: [Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing (SRPO)](sample-routed-policy-optimization.md)
 See also: [Self-Distilled Agentic Reinforcement Learning](self-distilled-agentic-rl.md)
 See also: [β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](b-opsd.md)
+See also: [Negative Self-Distillation: Learning to Reason by Avoiding Flaws](negative-self-distillation.md)
