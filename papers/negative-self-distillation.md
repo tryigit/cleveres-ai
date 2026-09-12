@@ -25,7 +25,7 @@ Instead of positive imitation, NSD leverages a controlled negative example:
 
 Empirically, NSD outperforms standard OPSD and other label-free, self-bootstrapping RL baselines on complex reasoning tasks.
 
-## Real-World Application & Who Should Care
+## Real-World Impact & Who Should Care
 
 (Rocket) THE PERFORMANCE MONSTERS (SOTA Seekers):
 If you are developing self-improving RL agents or pushing the boundaries of math and coding performance, NSD provides a robust alternative to standard OPSD. It allows you to train models that maintain their exploratory capabilities and uncertainty, preventing the overconfidence that often plagues heavily distilled models.
