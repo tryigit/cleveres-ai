@@ -52,6 +52,7 @@ A smart knowledge base about artificial intelligence.
 *   [OpenManus: The Open-Source Framework for General AI Agents](models/openmanus.md) - *An open-source alternative to Manus for creating and customizing advanced agentic workflows without an invite code.*
 
 ## Frontier Research & Papers
+*   [Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning](papers/l2-reasoning-data-mixing.md) - *A framework for advancing L2 reasoning (reasoning in the user's prompt language) through optimized data composition and scheduling in Supervised Fine-Tuning, proving that reasoning is a language-agnostic behavior transferable across languages.*
 *   [Negative Self-Distillation: Learning to Reason by Avoiding Flaws](papers/negative-self-distillation.md) - *A framework that improves reasoning by teaching models to diverge from their own self-generated flawed reasoning, using dynamic gating to preserve linguistic priors.*
 *   [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](papers/ncp-archpreview.md) - *A latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction by jointly predicting multi-token discrete concepts, achieving strong downstream performance gains.*
 *   [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](papers/saescientist-bench.md) - *A benchmark to evaluate if AI agents can act as scientists using Sparse Autoencoders (SAEs) for mechanistic discovery.*
