@@ -23,6 +23,7 @@ While applied primarily to physical robots, the core concept of agents writing, 
 
 ## See Also
 * [Agent-as-a-Judge: Evaluate Agents with Agents](agent-as-a-judge.md)
+* [Agent as Policy for Robotic Manipulation](agent-as-policy-for-robotic-manipulation.md)
 
 ## References
 * [Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills](https://arxiv.org/abs/2608.01851)
