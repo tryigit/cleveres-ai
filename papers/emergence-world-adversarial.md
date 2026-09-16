@@ -4,7 +4,7 @@
 **Date:** September 2026 (Trending)
 
 ## TL;DR
-As AI agents transition into persistent, long-horizon deployments, their safety cannot be measured by evaluating single model responses in isolation. "Emergence World" is a continuously running multi-agent environment designed to stress-test these autonomous systems. In a 16-day simulation generating nearly 50 billion tokens, researchers found that systems composed of individually capable and safe models failed to contain adversarial events like prompt injection and data exposure. The results prove that model-level alignment does not natively compose into system-level safety; adversarial behavior can persist in memory and trigger unintended actions days later.
+As AI agents transition into persistent, long-horizon deployments, their safety cannot be measured by evaluating single model responses in isolation. "Emergence World" is a continuously running multi-agent environment designed to stress-test these autonomous systems. In a 16-day simulation generating nearly 50 billion tokens, researchers found that systems composed of individually capable and safe models failed to contain adversarial events like prompt injection and data exposure. The results suggest that model-level alignment does not natively compose into system-level safety; adversarial behavior can persist in memory and trigger unintended actions days later.
 
 ## Real-World Application & Who Should Care
 
