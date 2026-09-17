@@ -18,6 +18,7 @@ While you might not train these models yourself, the existence of language world
 * [Chain-of-Thought (CoT): Eliciting Reasoning in LLMs](../concepts/chain-of-thought.md)
 * [FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds](factorjepa-denseworld.md)
 * [HarnessEval-W: Agentifying the Evaluation of Visual Worlds](harnesseval-w.md)
+* [Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](../models/zing-0-5.md)
 
 ## References
 * [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
