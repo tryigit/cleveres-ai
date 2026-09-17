@@ -37,3 +37,6 @@ This approach equips dLLMs with temporally valid token-level contexts, allowing 
 
 ## References
 * [SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544)
+
+## See Also
+* [VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention](vc-attention.md)
