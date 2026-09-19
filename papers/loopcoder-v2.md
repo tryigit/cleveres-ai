@@ -42,3 +42,4 @@ The study reveals a strongly non-monotonic loop-count effect when scaling test-t
 
 See also: [Inference-Time Compute: The New Scaling Law (System 2 Thinking)](../concepts/inference-time-compute.md)
 See also: [Looped Diffusion Language Models](looped-diffusion-language-models.md)
+See also: [Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling](test-time-candidate-generation.md)

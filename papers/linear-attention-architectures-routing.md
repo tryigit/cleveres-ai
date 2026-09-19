@@ -19,3 +19,5 @@ Self-attention enables tokens to retrieve information from the full context, but
 
 See also: [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](gated-deltanet-2.md)
 See also: [Why Muon Outperforms Adam: A Curvature Perspective](why-muon-outperforms-adam.md)
+
+See also: [Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](video-deltanet-hybrid-attention.md)

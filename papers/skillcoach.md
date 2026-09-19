@@ -35,3 +35,4 @@ While SkillCoach is primarily a framework for training and evaluation, everyday 
 
 ## References
 * [SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](https://arxiv.org/abs/2607.01874)
+See also: [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](evoskill-gui.md)

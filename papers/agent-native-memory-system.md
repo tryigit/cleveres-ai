@@ -15,3 +15,5 @@ As LLM agents evolve, their memory requirements have shifted from simple retriev
 * [Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)
 
 See also: [Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](proactive-memory-agent.md), [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](agentic-context-management.md), [Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay](activity-frames-deterministic-memory.md), [Persistent Recursive Worlds Enable Autonomous Software Evolution](evox-genesis-persistent-worlds.md)
+
+See also: [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](evoskill-gui.md)
