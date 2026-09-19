@@ -26,3 +26,4 @@ This topic does not directly apply to you. SANA-Video 2.0 is an underlying model
 * [SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation](https://arxiv.org/abs/2607.21553)
 
 See also: [Transformer Architecture](../concepts/transformer-architecture.md), [State Space Models](../concepts/state-space-models.md)
+See also: [Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](video-deltanet-hybrid-attention.md)
